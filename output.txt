@@ -1,0 +1,1399 @@
+<tr>
+	<td>Butterfree</td>
+	<td>Tinted Lens</td>
+	<td>Windswept Sky</td>
+	<td></td>
+</tr>
+<tr>
+	<td>Beedrill</td>
+	<td>Sniper</td>
+	<td>Dream Park</td>
+	<td>Black &amp; White Exclusive</td>
+</tr>
+<tr>
+	<td>Pidgey</td>
+	<td>Big Pecks</td>
+	<td>Windswept Sky</td>
+	<td></td>
+</tr>
+<tr>
+	<td>Rattata</td>
+	<td>Hustle</td>
+	<td>Pleasant Forest</td>
+	<td></td>
+</tr>
+<tr>
+	<td>Spearow</td>
+	<td>Sniper</td>
+	<td>Windswept Sky</td>
+	<td></td>
+</tr>
+<tr>
+	<td>Ekans</td>
+	<td>Unnerve</td>
+	<td>Dream Park</td>
+	<td>Obtain 5,000+ Dream Points</td>
+</tr>
+<tr>
+	<td>Sandshrew</td>
+	<td>Sand Rush</td>
+	<td>Icy Cave</td>
+	<td></td>
+</tr>
+<tr>
+	<td>Nidoran (F)</td>
+	<td>Hustle</td>
+	<td>Pleasant Forest</td>
+	<td></td>
+</tr>
+<tr>
+	<td>Nidoran (M)</td>
+	<td>Hustle</td>
+	<td>Pleasant Forest</td>
+	<td></td>
+</tr>
+<tr>
+	<td>Vulpix</td>
+	<td>Drought</td>
+	<td>Pleasant Forest</td>
+	<td>Obtain 10000+ Dream Points</td>
+</tr>
+<tr>
+	<td>Zubat</td>
+	<td>Infiltrator</td>
+	<td>Windswept Sky</td>
+	<td></td>
+</tr>
+<tr>
+	<td>Oddish</td>
+	<td>Run Away</td>
+	<td>Pleasant Forest</td>
+	<td></td>
+</tr>
+<tr>
+	<td>Paras</td>
+	<td>Damp</td>
+	<td>Dream Park</td>
+	<td></td>
+</tr>
+<tr>
+	<td>Venonat</td>
+	<td>Run Away</td>
+	<td>Dream Park</td>
+	<td>Black &amp; White Exclusive</td>
+</tr>
+<tr>
+	<td>Diglett</td>
+	<td>Sand Force</td>
+	<td>Icy Cave</td>
+	<td>Obtain 5000+ Dream Points</td>
+</tr>
+<tr>
+	<td>Meowth</td>
+	<td>Unnerve</td>
+	<td>Spooky Manor</td>
+	<td>Obtain 5000+ Dream Points</td>
+</tr>
+<tr>
+	<td>Psyduck</td>
+	<td>Swift Swim</td>
+	<td>Pleasant Forest</td>
+	<td>Obtain 5000+ Dream Points</td>
+</tr>
+<tr>
+	<td>Mankey</td>
+	<td>Defiant</td>
+	<td>Rugged Mountain</td>
+	<td></td>
+</tr>
+<tr>
+	<td>Growlithe</td>
+	<td>Justified</td>
+	<td>Pleasant Forest</td>
+	<td>Obtain 5000+ Dream Points</td>
+</tr>
+<tr>
+	<td>Poliwag</td>
+	<td>Swift Swim</td>
+	<td>Pleasant Forest</td>
+	<td>Obtain 10000+ Dream Points</td>
+</tr>
+<tr>
+	<td>Poliwhirl</td>
+	<td>Swift Swim</td>
+	<td>Pokemon Café Forest (Event Zone)</td>
+	<td></td>
+</tr>
+<tr>
+	<td>Abra</td>
+	<td>Magic Guard</td>
+	<td>Spooky Manor</td>
+	<td>Obtain 10000+ Dream Points</td>
+</tr>
+<tr>
+	<td>Machop</td>
+	<td>Steadfast</td>
+	<td>Rugged Mountain</td>
+	<td></td>
+</tr>
+<tr>
+	<td>Bellsprout</td>
+	<td>Gluttony</td>
+	<td>Pleasant Forest</td>
+	<td></td>
+</tr>
+<tr>
+	<td>Tentacool</td>
+	<td>Rain Dish</td>
+	<td>Sparkling Sea</td>
+	<td>Obtain 5000+ Dream Points</td>
+</tr>
+<tr>
+	<td>Geodude</td>
+	<td>Sand Veil</td>
+	<td>Icy Cave</td>
+	<td></td>
+</tr>
+<tr>
+	<td>Ponyta</td>
+	<td>Flame Body</td>
+	<td>Pleasant Forest</td>
+	<td></td>
+</tr>
+<tr>
+	<td>Slowpoke</td>
+	<td>Regenerator</td>
+	<td>Sparkling Sea</td>
+	<td></td>
+</tr>
+<tr>
+	<td>Magnemite</td>
+	<td>Analytic</td>
+	<td>Rugged Mountain</td>
+	<td></td>
+</tr>
+<tr>
+	<td>Farfetch'd</td>
+	<td>Defiant</td>
+	<td>Pleasant Forest</td>
+	<td></td>
+</tr>
+<tr>
+	<td>Doduo</td>
+	<td>Tangled Feet</td>
+	<td>Pleasant Forest</td>
+	<td></td>
+</tr>
+<tr>
+	<td>Seel</td>
+	<td>Ice Body</td>
+	<td>Sparkling Sea</td>
+	<td></td>
+</tr>
+<tr>
+	<td>Grimer</td>
+	<td>Poison Touch</td>
+	<td>Dream Park</td>
+	<td>Black &amp; White Exclusive</td>
+</tr>
+<tr>
+	<td>Shellder</td>
+	<td>Overcoat</td>
+	<td>Sparkling Sea</td>
+	<td></td>
+</tr>
+<tr>
+	<td>Gastly</td>
+	<td>Levitate</td>
+	<td>Spooky Manor</td>
+	<td></td>
+</tr>
+<tr>
+	<td>Onix</td>
+	<td>Weak Armor</td>
+	<td>Icy Cave</td>
+	<td></td>
+</tr>
+<tr>
+	<td>Drowzee</td>
+	<td>Inner Focus</td>
+	<td>Spooky Manor</td>
+	<td></td>
+</tr>
+<tr>
+	<td>Krabby</td>
+	<td>Sheer Force</td>
+	<td>Sparkling Sea</td>
+	<td></td>
+</tr>
+<tr>
+	<td>Voltorb</td>
+	<td>Aftermath</td>
+	<td>Icy Cave</td>
+	<td></td>
+</tr>
+<tr>
+	<td>Exeggcute</td>
+	<td>Harvest</td>
+	<td>Pleasant Forest</td>
+	<td></td>
+</tr>
+<tr>
+	<td>Cubone</td>
+	<td>Battle Armor</td>
+	<td>Icy Cave</td>
+	<td></td>
+</tr>
+<tr>
+	<td>Lickitung</td>
+	<td>Cloud Nine</td>
+	<td>Pleasant Forest</td>
+	<td></td>
+</tr>
+<tr>
+	<td>Koffing</td>
+	<td>Levitate</td>
+	<td>Rugged Mountain</td>
+	<td></td>
+</tr>
+<tr>
+	<td>Rhyhorn</td>
+	<td>Reckless</td>
+	<td>Rugged Mountain</td>
+	<td></td>
+</tr>
+<tr>
+	<td>Chansey</td>
+	<td>Healer</td>
+	<td>Dream Park</td>
+	<td>Obtain 10000+ Dream Points</td>
+</tr>
+<tr>
+	<td>Tangela</td>
+	<td>Regenerator</td>
+	<td>Pleasant Forest</td>
+	<td></td>
+</tr>
+<tr>
+	<td>Kangaskhan</td>
+	<td>Inner Focus</td>
+	<td>Pleasant Forest</td>
+	<td></td>
+</tr>
+<tr>
+	<td>Horsea</td>
+	<td>Damp</td>
+	<td>Sparkling Sea</td>
+	<td></td>
+</tr>
+<tr>
+	<td>Goldeen</td>
+	<td>Lightningrod</td>
+	<td>Sparkling Sea</td>
+	<td></td>
+</tr>
+<tr>
+	<td>Seaking</td>
+	<td>Lightningrod</td>
+	<td>Sparkling Sea</td>
+	<td></td>
+</tr>
+<tr>
+	<td>Staryu</td>
+	<td>Analytic</td>
+	<td>Sparkling Sea</td>
+	<td></td>
+</tr>
+<tr>
+	<td>Mr. Mime</td>
+	<td>Technician</td>
+	<td>Spooky Manor</td>
+	<td></td>
+</tr>
+<tr>
+	<td>Scyther</td>
+	<td>Steadfast</td>
+	<td>Pleasant Forest</td>
+	<td>Obtain 5000+ Dream Points</td>
+</tr>
+<tr>
+	<td>Pinsir</td>
+	<td>Moxie</td>
+	<td>Dream Park</td>
+	<td>Obtain 10000+ Dream Points</td>
+</tr>
+<tr>
+	<td>Tauros</td>
+	<td>Sheer Force</td>
+	<td>Pleasant Forest</td>
+	<td>Obtain 5000+ Dream Points</td>
+</tr>
+<tr>
+	<td>Magikarp</td>
+	<td>Rattled</td>
+	<td>Sparkling Sea</td>
+	<td></td>
+</tr>
+<tr>
+	<td>Lapras</td>
+	<td>Hydration</td>
+	<td>Sparkling Sea</td>
+	<td>Obtain 10000+ Dream Points</td>
+</tr>
+<tr>
+	<td>Eevee</td>
+	<td>Anticipation</td>
+	<td>Pokemon Café Forest (Event Zone)Dream Park</td>
+	<td>Obtain 10000+ Dream Points</td>
+</tr>
+<tr>
+	<td>Omanyte</td>
+	<td>Weak Armor</td>
+	<td>Sparkling Sea</td>
+	<td></td>
+</tr>
+<tr>
+	<td>Kabuto</td>
+	<td>Weak Armor</td>
+	<td>Sparkling Sea</td>
+	<td></td>
+</tr>
+<tr>
+	<td>Aerodactyl</td>
+	<td>Unnerve</td>
+	<td>Windswept Sky</td>
+	<td></td>
+</tr>
+<tr>
+	<td>Snorlax</td>
+	<td>Gluttony</td>
+	<td>Dream Park</td>
+	<td>Obtain 10000+ Dream Points</td>
+</tr>
+<tr>
+	<td>Dratini</td>
+	<td>Marvel Scale</td>
+	<td>Sparkling Sea</td>
+	<td>Obtain 10000+ Dream Points</td>
+</tr>
+<tr>
+	<td>Sentret</td>
+	<td>Frisk</td>
+	<td>Pleasant Forest</td>
+	<td></td>
+</tr>
+<tr>
+	<td>Hoothoot</td>
+	<td>Tinted Lens</td>
+	<td>Windswept Sky</td>
+	<td></td>
+</tr>
+<tr>
+	<td>Ledyba</td>
+	<td>Rattled</td>
+	<td>Windswept Sky</td>
+	<td></td>
+</tr>
+<tr>
+	<td>Spinarak</td>
+	<td>Sniper</td>
+	<td>Spooky Manor</td>
+	<td></td>
+</tr>
+<tr>
+	<td>Chinchou</td>
+	<td>Water Absorb</td>
+	<td>Sparkling Sea</td>
+	<td></td>
+</tr>
+<tr>
+	<td>Cleffa</td>
+	<td>Friend Guard</td>
+	<td>Icy Cave</td>
+	<td></td>
+</tr>
+<tr>
+	<td>Igglybuff</td>
+	<td>Friend Guard</td>
+	<td>Pleasant Forest</td>
+	<td></td>
+</tr>
+<tr>
+	<td>Togepi</td>
+	<td>Super Luck</td>
+	<td>Dream Park</td>
+	<td>Obtain 5000+ Dream Points</td>
+</tr>
+<tr>
+	<td>Natu</td>
+	<td>Magic Bounce</td>
+	<td>Pleasant Forest</td>
+	<td>Obtain 10000+ Dream Points</td>
+</tr>
+<tr>
+	<td>Mareep</td>
+	<td>Plus</td>
+	<td>Pleasant Forest</td>
+	<td></td>
+</tr>
+<tr>
+	<td>Marill</td>
+	<td>Sap Sipper</td>
+	<td>Pleasant Forest</td>
+	<td>Obtain 5000+ Dream Points</td>
+</tr>
+<tr>
+	<td>Sudowoodo</td>
+	<td>Rattled</td>
+	<td>Pleasant Forest</td>
+	<td>Obtain 5000+ Dream Points</td>
+</tr>
+<tr>
+	<td>Hoppip</td>
+	<td>Infiltrator</td>
+	<td>Pleasant ForestWindswept Sky</td>
+	<td></td>
+</tr>
+<tr>
+	<td>Aipom</td>
+	<td>Skill Link</td>
+	<td>Dream Park</td>
+	<td>Obtain 5000+ Dream Points</td>
+</tr>
+<tr>
+	<td>Sunkern</td>
+	<td>Early Bird</td>
+	<td>Pleasant Forest</td>
+	<td></td>
+</tr>
+<tr>
+	<td>Yanma</td>
+	<td>Frisk</td>
+	<td>Windswept Sky</td>
+	<td></td>
+</tr>
+<tr>
+	<td>Wooper</td>
+	<td>Unaware</td>
+	<td>Sparkling Sea</td>
+	<td></td>
+</tr>
+<tr>
+	<td>Murkrow</td>
+	<td>Prankster</td>
+	<td>Windswept Sky</td>
+	<td></td>
+</tr>
+<tr>
+	<td>Misdreavus</td>
+	<td>Levitate</td>
+	<td>Spooky Manor</td>
+	<td></td>
+</tr>
+<tr>
+	<td>Wobbuffet</td>
+	<td>Telepathy</td>
+	<td>Spooky Manor</td>
+	<td></td>
+</tr>
+<tr>
+	<td>Girafarig</td>
+	<td>Sap Sipper</td>
+	<td>Pleasant Forest</td>
+	<td>Obtain 5000+ Dream Points</td>
+</tr>
+<tr>
+	<td>Pineco</td>
+	<td>Overcoat</td>
+	<td>Dream Park</td>
+	<td></td>
+</tr>
+<tr>
+	<td>Dunsparce</td>
+	<td>Rattled</td>
+	<td>Icy Cave</td>
+	<td>Obtain 5000+ Dream Points</td>
+</tr>
+<tr>
+	<td>Gligar</td>
+	<td>Immunity</td>
+	<td>Windswept Sky</td>
+	<td></td>
+</tr>
+<tr>
+	<td>Snubbull</td>
+	<td>Rattled</td>
+	<td>Spooky Manor</td>
+	<td>Obtain 5000+ Dream Points</td>
+</tr>
+<tr>
+	<td>Qwilfish</td>
+	<td>Intimidate</td>
+	<td>Sparkling Sea</td>
+	<td></td>
+</tr>
+<tr>
+	<td>Shuckle</td>
+	<td>Contrary</td>
+	<td>Icy Cave</td>
+	<td></td>
+</tr>
+<tr>
+	<td>Heracross</td>
+	<td>Moxie</td>
+	<td>Dream Park</td>
+	<td>Obtain 10000+ Dream Points</td>
+</tr>
+<tr>
+	<td>Sneasel</td>
+	<td>Pickpocket</td>
+	<td>Icy Cave</td>
+	<td>Obtain 5000+ Dream Points</td>
+</tr>
+<tr>
+	<td>Teddiursa</td>
+	<td>Honey Gather</td>
+	<td>Rugged Mountain</td>
+	<td>Obtain 5000+ Dream Points</td>
+</tr>
+<tr>
+	<td>Slugma</td>
+	<td>Weak Armor</td>
+	<td>Rugged Mountain</td>
+	<td></td>
+</tr>
+<tr>
+	<td>Swinub</td>
+	<td>Thick Fat</td>
+	<td>Icy Cave</td>
+	<td></td>
+</tr>
+<tr>
+	<td>Corsola</td>
+	<td>Regenerator</td>
+	<td>Sparkling Sea</td>
+	<td></td>
+</tr>
+<tr>
+	<td>Remoraid</td>
+	<td>Moody</td>
+	<td>Sparkling Sea</td>
+	<td></td>
+</tr>
+<tr>
+	<td>Delibird</td>
+	<td>Insomnia</td>
+	<td>Windswept Sky</td>
+	<td></td>
+</tr>
+<tr>
+	<td>Mantine</td>
+	<td>Water Veil</td>
+	<td>Sparkling Sea</td>
+	<td></td>
+</tr>
+<tr>
+	<td>Skarmory</td>
+	<td>Weak Armor</td>
+	<td>Windswept Sky</td>
+	<td>Obtain 5000+ Dream Points</td>
+</tr>
+<tr>
+	<td>Houndour</td>
+	<td>Unnerve</td>
+	<td>Spooky Manor</td>
+	<td></td>
+</tr>
+<tr>
+	<td>Phanpy</td>
+	<td>Sand Veil</td>
+	<td>Rugged Mountain</td>
+	<td></td>
+</tr>
+<tr>
+	<td>Stantler</td>
+	<td>Sap Sipper</td>
+	<td>Pleasant Forest</td>
+	<td></td>
+</tr>
+<tr>
+	<td>Smeargle</td>
+	<td>Moody</td>
+	<td>Pokémon Café Forest (Event Zone)Spooky Manor</td>
+	<td>Obtain 5000+ Dream Points</td>
+</tr>
+<tr>
+	<td>Tyrogue</td>
+	<td>Vital Spirit</td>
+	<td>Rugged Mountain</td>
+	<td>Obtain 10000+ Dream Points</td>
+</tr>
+<tr>
+	<td>Smoochum</td>
+	<td>Hydration</td>
+	<td>Spooky Manor</td>
+	<td></td>
+</tr>
+<tr>
+	<td>Elekid</td>
+	<td>Vital Spirit</td>
+	<td>Pleasant Forest</td>
+	<td>Obtain 10000+ Dream Points</td>
+</tr>
+<tr>
+	<td>Magby</td>
+	<td>Vital Spirit</td>
+	<td>Rugged Mountain</td>
+	<td>Obtain 5000+ Dream Points</td>
+</tr>
+<tr>
+	<td>Miltank</td>
+	<td>Sap Sipper</td>
+	<td>Pleasant Forest</td>
+	<td>Obtain 5000+ Dream Points</td>
+</tr>
+<tr>
+	<td>Larvitar</td>
+	<td>Sand Veil</td>
+	<td>Rugged Mountain</td>
+	<td></td>
+</tr>
+<tr>
+	<td>Poochyena</td>
+	<td>Rattled</td>
+	<td>Pleasant Forest</td>
+	<td></td>
+</tr>
+<tr>
+	<td>Zigzagoon</td>
+	<td>Quick Feet</td>
+	<td>Pleasant Forest</td>
+	<td>Obtain 5000+ Dream Points</td>
+</tr>
+<tr>
+	<td>Wurmple</td>
+	<td>Run Away</td>
+	<td>Dream Park</td>
+	<td></td>
+</tr>
+<tr>
+	<td>Lotad</td>
+	<td>Own Tempo</td>
+	<td>Pleasant Forest</td>
+	<td></td>
+</tr>
+<tr>
+	<td>Seedot</td>
+	<td>Pickpocket</td>
+	<td>Dream Park</td>
+	<td></td>
+</tr>
+<tr>
+	<td>Taillow</td>
+	<td>Scrappy</td>
+	<td>Pleasant ForestWindswept Sky</td>
+	<td></td>
+</tr>
+<tr>
+	<td>Wingull</td>
+	<td>Rain Dish</td>
+	<td>Windswept Sky</td>
+	<td></td>
+</tr>
+<tr>
+	<td>Ralts</td>
+	<td>Telepathy</td>
+	<td>Spooky Manor</td>
+	<td>Obtain 10000+ Dream Points</td>
+</tr>
+<tr>
+	<td>Surskit</td>
+	<td>Rain Dish</td>
+	<td>Pleasant Forest</td>
+	<td></td>
+</tr>
+<tr>
+	<td>Shroomish</td>
+	<td>Quick Feet</td>
+	<td>Dream Park</td>
+	<td></td>
+</tr>
+<tr>
+	<td>Slakoth</td>
+	<td>Truant</td>
+	<td>Dream Park</td>
+	<td></td>
+</tr>
+<tr>
+	<td>Nincada</td>
+	<td>Run Away</td>
+	<td>Dream Park</td>
+	<td></td>
+</tr>
+<tr>
+	<td>Whismur</td>
+	<td>Rattled</td>
+	<td>Icy Cave</td>
+	<td></td>
+</tr>
+<tr>
+	<td>Makuhita</td>
+	<td>Sheer Force</td>
+	<td>Rugged Mountain</td>
+	<td>Obtain 5000+ Dream Points</td>
+</tr>
+<tr>
+	<td>Nosepass</td>
+	<td>Sand Force</td>
+	<td>Icy Cave</td>
+	<td></td>
+</tr>
+<tr>
+	<td>Skitty</td>
+	<td>Wonder Skin</td>
+	<td>Pleasant Forest</td>
+	<td>Obtain 10000+ Dream Points</td>
+</tr>
+<tr>
+	<td>Sableye</td>
+	<td>Prankster</td>
+	<td>Spooky Manor</td>
+	<td>Obtain 10000+ Dream Points</td>
+</tr>
+<tr>
+	<td>Mawile</td>
+	<td>Sheer Force</td>
+	<td>Spooky Manor</td>
+	<td></td>
+</tr>
+<tr>
+	<td>Aron</td>
+	<td>Heavy Metal</td>
+	<td>Icy Cave</td>
+	<td></td>
+</tr>
+<tr>
+	<td>Meditite</td>
+	<td>Telepathy</td>
+	<td>Spooky Manor</td>
+	<td></td>
+</tr>
+<tr>
+	<td>Electrike</td>
+	<td>Minus</td>
+	<td>Pleasant Forest</td>
+	<td>Obtain 5000+ Dream Points</td>
+</tr>
+<tr>
+	<td>Plusle</td>
+	<td>Plus</td>
+	<td>Dream Park</td>
+	<td></td>
+</tr>
+<tr>
+	<td>Minun</td>
+	<td>Minus</td>
+	<td>Dream Park</td>
+	<td></td>
+</tr>
+<tr>
+	<td>Volbeat</td>
+	<td>Prankster</td>
+	<td>Spooky Manor</td>
+	<td>Obtain 5000+ Dream Points</td>
+</tr>
+<tr>
+	<td>Illumise</td>
+	<td>Prankster</td>
+	<td>Spooky Manor</td>
+	<td>Obtain 5000+ Dream Points</td>
+</tr>
+<tr>
+	<td>Roselia</td>
+	<td>Leaf Guard</td>
+	<td>Dream Park</td>
+	<td>Obtain 5000+ Dream Points</td>
+</tr>
+<tr>
+	<td>Gulpin</td>
+	<td>Gluttony</td>
+	<td>Dream Park</td>
+	<td></td>
+</tr>
+<tr>
+	<td>Carvanha</td>
+	<td>Speed Boost</td>
+	<td>Sparkling Sea</td>
+	<td></td>
+</tr>
+<tr>
+	<td>Wailmer</td>
+	<td>Pressure</td>
+	<td>Sparkling Sea</td>
+	<td></td>
+</tr>
+<tr>
+	<td>Numel</td>
+	<td>Own Tempo</td>
+	<td>Rugged Mountain</td>
+	<td>Obtain 5000+ Dream Points</td>
+</tr>
+<tr>
+	<td>Torkoal</td>
+	<td>Shell Armor</td>
+	<td>Rugged Mountain</td>
+	<td></td>
+</tr>
+<tr>
+	<td>Spoink</td>
+	<td>Gluttony</td>
+	<td>Spooky Manor</td>
+	<td></td>
+</tr>
+<tr>
+	<td>Spinda</td>
+	<td>Contrary</td>
+	<td>Rugged Mountain</td>
+	<td>Obtain 5000+ Dream Points</td>
+</tr>
+<tr>
+	<td>Trapinch</td>
+	<td>Sheer Force</td>
+	<td>Rugged Mountain</td>
+	<td></td>
+</tr>
+<tr>
+	<td>Cacnea</td>
+	<td>Water Absorb</td>
+	<td>Rugged Mountain</td>
+	<td></td>
+</tr>
+<tr>
+	<td>Swablu</td>
+	<td>Cloud Nine</td>
+	<td>Windswept Sky</td>
+	<td></td>
+</tr>
+<tr>
+	<td>Zangoose</td>
+	<td>Toxic Boost</td>
+	<td>Dream Park</td>
+	<td>Black &amp; White Exclusive</td>
+</tr>
+<tr>
+	<td>Seviper</td>
+	<td>Infiltrator</td>
+	<td>Dream Park</td>
+	<td>Black &amp; White Exclusive</td>
+</tr>
+<tr>
+	<td>Lunatone</td>
+	<td>Levitate</td>
+	<td>Icy Cave</td>
+	<td></td>
+</tr>
+<tr>
+	<td>Solrock</td>
+	<td>Levitate</td>
+	<td>Icy Cave</td>
+	<td></td>
+</tr>
+<tr>
+	<td>Barboach</td>
+	<td>Hydration</td>
+	<td>Sparkling Sea</td>
+	<td></td>
+</tr>
+<tr>
+	<td>Corphish</td>
+	<td>Adaptability</td>
+	<td>Sparkling Sea</td>
+	<td>Obtain 5000+ Dream Points</td>
+</tr>
+<tr>
+	<td>Baltoy</td>
+	<td>Levitate</td>
+	<td>Icy Cave</td>
+	<td></td>
+</tr>
+<tr>
+	<td>Lileep</td>
+	<td>Storm Drain</td>
+	<td>Sparkling Sea</td>
+	<td>Obtain 5000+ Dream Points</td>
+</tr>
+<tr>
+	<td>Anorith</td>
+	<td>Swift Swim</td>
+	<td>Sparkling Sea</td>
+	<td>Obtain 5000+ Dream Points</td>
+</tr>
+<tr>
+	<td>Feebas</td>
+	<td>Adaptability</td>
+	<td>Sparkling Sea</td>
+	<td>Obtain 5000+ Dream Points</td>
+</tr>
+<tr>
+	<td>Castform</td>
+	<td>Forecast</td>
+	<td>Pleasant Forest</td>
+	<td>Obtain 5000+ Dream Points</td>
+</tr>
+<tr>
+	<td>Kecleon</td>
+	<td>Color Change</td>
+	<td>Dream Park</td>
+	<td>Black &amp; White Exclusive</td>
+</tr>
+<tr>
+	<td>Shuppet</td>
+	<td>Cursed Body</td>
+	<td>Spooky Manor</td>
+	<td></td>
+</tr>
+<tr>
+	<td>Banette</td>
+	<td>Cursed Body</td>
+	<td>Halloween 2011 Event, male only (?)</td>
+	<td></td>
+</tr>
+<tr>
+	<td>Duskull</td>
+	<td>Levitate</td>
+	<td>Spooky Manor</td>
+	<td></td>
+</tr>
+<tr>
+	<td>Tropius</td>
+	<td>Harvest</td>
+	<td>Windswept Sky</td>
+	<td>Obtain 5000+ Dream Points</td>
+</tr>
+<tr>
+	<td>Chimecho</td>
+	<td>Levitate</td>
+	<td>Spooky Manor</td>
+	<td></td>
+</tr>
+<tr>
+	<td>Absol</td>
+	<td>Justified</td>
+	<td>Rugged Mountain</td>
+	<td>Obtain 5000+ Dream Points</td>
+</tr>
+<tr>
+	<td>Snorunt</td>
+	<td>Moody</td>
+	<td>Icy Cave</td>
+	<td>Obtain 5000+ Dream Points</td>
+</tr>
+<tr>
+	<td>Spheal</td>
+	<td>Oblivious</td>
+	<td>Icy Cave</td>
+	<td></td>
+</tr>
+<tr>
+	<td>Clamperl</td>
+	<td>Rattled</td>
+	<td>Sparkling Sea</td>
+	<td></td>
+</tr>
+<tr>
+	<td>Relicanth</td>
+	<td>Sturdy</td>
+	<td>Sparkling Sea</td>
+	<td></td>
+</tr>
+<tr>
+	<td>Luvdisc</td>
+	<td>Hydration</td>
+	<td>Sparkling Sea</td>
+	<td></td>
+</tr>
+<tr>
+	<td>Bagon</td>
+	<td>Sheer Force</td>
+	<td>Rugged Mountain</td>
+	<td>Obtain 10000+ Dream Points</td>
+</tr>
+<tr>
+	<td>Beldum</td>
+	<td>Light Metal</td>
+	<td>Rugged Mountain</td>
+	<td>Obtain 5000+ Dream Points</td>
+</tr>
+<tr>
+	<td>Staravia</td>
+	<td>Reckless</td>
+	<td>Windswept Sky</td>
+	<td></td>
+</tr>
+<tr>
+	<td>Bidoof</td>
+	<td>Moody</td>
+	<td>Pleasant Forest</td>
+	<td></td>
+</tr>
+<tr>
+	<td>Kricketot</td>
+	<td>Run Away</td>
+	<td>Dream Park</td>
+	<td></td>
+</tr>
+<tr>
+	<td>Shinx</td>
+	<td>Guts</td>
+	<td>Pleasant Forest</td>
+	<td></td>
+</tr>
+<tr>
+	<td>Cranidos</td>
+	<td>Sheer Force</td>
+	<td>Icy Cave</td>
+	<td>Obtain 5000+ Dream Points</td>
+</tr>
+<tr>
+	<td>Shieldon</td>
+	<td>Soundproof</td>
+	<td>Icy Cave</td>
+	<td></td>
+</tr>
+<tr>
+	<td>Burmy</td>
+	<td>Overcoat</td>
+	<td>Pokemon Café Forest (Event Zone)
+Rugged Mountain</td>
+	<td></td>
+</tr>
+<tr>
+	<td>Combee</td>
+	<td>Hustle</td>
+	<td>Dream Park</td>
+	<td>Black &amp; White Exclusive</td>
+</tr>
+<tr>
+	<td>Pachirisu</td>
+	<td>Volt Absorb</td>
+	<td>Pleasant Forest</td>
+	<td>Obtain 5000+ Dream Points</td>
+</tr>
+<tr>
+	<td>Buizel</td>
+	<td>Water Veil</td>
+	<td>Sparkling Sea</td>
+	<td></td>
+</tr>
+<tr>
+	<td>Cherubi</td>
+	<td>Chlorophyll</td>
+	<td>Dream Park</td>
+	<td></td>
+</tr>
+<tr>
+	<td>Shellos</td>
+	<td>Sand Force</td>
+	<td>Sparkling Sea</td>
+	<td>Obtain 5000+ Dream Points</td>
+</tr>
+<tr>
+	<td>Drifloon</td>
+	<td>Flare Boost</td>
+	<td>Windswept Sky</td>
+	<td></td>
+</tr>
+<tr>
+	<td>Buneary</td>
+	<td>Limber</td>
+	<td>Pleasant Forest</td>
+	<td>Obtain 5000+ Dream Points</td>
+</tr>
+<tr>
+	<td>Glameow</td>
+	<td>Keen Eye</td>
+	<td>Pleasant Forest</td>
+	<td>Obtain 5000+ Dream Points</td>
+</tr>
+<tr>
+	<td>Stunky</td>
+	<td>Keen Eye</td>
+	<td>Spooky Manor</td>
+	<td></td>
+</tr>
+<tr>
+	<td>Bronzor</td>
+	<td>Heavy Metal</td>
+	<td>Spooky Manor</td>
+	<td></td>
+</tr>
+<tr>
+	<td>Chatot</td>
+	<td>Big Pecks</td>
+	<td>Windswept Sky</td>
+	<td>Obtain 5000+ Dream Points</td>
+</tr>
+<tr>
+	<td>Spiritomb</td>
+	<td>Infiltrator</td>
+	<td>Spooky Manor</td>
+	<td>Obtain 10000+ Dream Points</td>
+</tr>
+<tr>
+	<td>Gible</td>
+	<td>Rough Skin</td>
+	<td>Icy Cave</td>
+	<td>Obtain 10,000+ Dream Points</td>
+</tr>
+<tr>
+	<td>Hippopotas</td>
+	<td>Sand Force</td>
+	<td>Rugged Mountain</td>
+	<td></td>
+</tr>
+<tr>
+	<td>Skorupi</td>
+	<td>Keen Eye</td>
+	<td>Rugged Mountain</td>
+	<td></td>
+</tr>
+<tr>
+	<td>Croagunk</td>
+	<td>Poison Touch</td>
+	<td>Rugged Mountain</td>
+	<td>Obtain 5000+ Dream Points</td>
+</tr>
+<tr>
+	<td>Carnivine</td>
+	<td>Levitate</td>
+	<td>Dream Park</td>
+	<td></td>
+</tr>
+<tr>
+	<td>Finneon</td>
+	<td>Water Veil</td>
+	<td>Sparkling Sea</td>
+	<td></td>
+</tr>
+<tr>
+	<td>Snover</td>
+	<td>Soundproof</td>
+	<td>Icy Cave</td>
+	<td></td>
+</tr>
+<tr>
+	<td>Rotom</td>
+	<td>Levitate</td>
+	<td>Spooky Manor</td>
+	<td>Obtain 5000+ Dream Points</td>
+</tr>
+<tr>
+	<td>Pidove</td>
+	<td>Rivalry</td>
+	<td>Windswept Sky</td>
+	<td></td>
+</tr>
+<tr>
+	<td>Boldore</td>
+	<td>Sand Force</td>
+	<td>Icy Cave</td>
+	<td>Obtain 5000+ Dream Points</td>
+</tr>
+<tr>
+	<td>Drilbur</td>
+	<td>Mold Breaker</td>
+	<td>Icy Cave</td>
+	<td></td>
+</tr>
+<tr>
+	<td>Audino</td>
+	<td>Klutz</td>
+	<td>Dream Park</td>
+	<td>Black 2 &amp; White 2 Exclusive</td>
+</tr>
+<tr>
+	<td>Gurdurr</td>
+	<td>Iron Fist</td>
+	<td>Dream Park</td>
+	<td>Black 2 &amp; White 2 Exclusive</td>
+</tr>
+<tr>
+	<td>Tympole</td>
+	<td>Water Absorb</td>
+	<td>Pleasant Forest</td>
+	<td></td>
+</tr>
+<tr>
+	<td>Throh</td>
+	<td>Mold Breaker</td>
+	<td>Dream Park</td>
+	<td>Black 2 &amp; White 2 Exclusive</td>
+</tr>
+<tr>
+	<td>Sawk</td>
+	<td>Mold Breaker</td>
+	<td>Dream Park</td>
+	<td>Black 2 &amp; White 2 Exclusive</td>
+</tr>
+<tr>
+	<td>Scolipede</td>
+	<td>Quick Feet</td>
+	<td>Pleasant Forest</td>
+	<td>Obtain 5000+ Dream Points</td>
+</tr>
+<tr>
+	<td>Cottonee</td>
+	<td>Chlorophyll</td>
+	<td>Pleasant Forest</td>
+	<td></td>
+</tr>
+<tr>
+	<td>Petilil</td>
+	<td>Leaf Guard</td>
+	<td>Pleasant Forest</td>
+	<td></td>
+</tr>
+<tr>
+	<td>Basculin</td>
+	<td>Mold Breaker</td>
+	<td>Sparkling Sea</td>
+	<td></td>
+</tr>
+<tr>
+	<td>Krookodile</td>
+	<td>Anger Point</td>
+	<td>Rugged Mountain</td>
+	<td>Obtain 10000+ Dream Points</td>
+</tr>
+<tr>
+	<td>Maractus</td>
+	<td>Storm Drain</td>
+	<td>Rugged Mountain</td>
+	<td>Obtain 5000+ Dream Points</td>
+</tr>
+<tr>
+	<td>Crustle</td>
+	<td>Weak Armor</td>
+	<td>Rugged Mountain</td>
+	<td>Obtain 5000+ Dream Points</td>
+</tr>
+<tr>
+	<td>Scraggy</td>
+	<td>Intimidate</td>
+	<td>Dream Park</td>
+	<td>Black 2 &amp; White 2 Exclusive</td>
+</tr>
+<tr>
+	<td>Sigilyph</td>
+	<td>Tinted Lens</td>
+	<td>Windswept Sky</td>
+	<td></td>
+</tr>
+<tr>
+	<td>Tirtouga</td>
+	<td>Swift Swim</td>
+	<td>Sparkling Sea</td>
+	<td>Obtain 5000+ Dream Points</td>
+</tr>
+<tr>
+	<td>Duosion</td>
+	<td>Regenerator</td>
+	<td>Spooky Manor</td>
+	<td>Obtain 10000+ Dream Points</td>
+</tr>
+<tr>
+	<td>Ducklett</td>
+	<td>Hydration</td>
+	<td>Windswept Sky</td>
+	<td></td>
+</tr>
+<tr>
+	<td>Vanillish</td>
+	<td>Weak Armor</td>
+	<td>Icy Cave</td>
+	<td>Obtain 5000+ Dream Points</td>
+</tr>
+<tr>
+	<td>Emolga</td>
+	<td>Motor Drive</td>
+	<td>Windswept Sky</td>
+	<td>Obtain 5000+ Dream Points</td>
+</tr>
+<tr>
+	<td>Karrablast</td>
+	<td>No Guard</td>
+	<td>Pleasant Forest</td>
+	<td></td>
+</tr>
+<tr>
+	<td>Alomomola</td>
+	<td>Regenerator</td>
+	<td>Sparkling Sea</td>
+	<td></td>
+</tr>
+<tr>
+	<td>Galvantula</td>
+	<td>Swarm</td>
+	<td>Spooky Manor</td>
+	<td>Obtain 5000+ Dream Points</td>
+</tr>
+<tr>
+	<td>Klang</td>
+	<td>Clear Body</td>
+	<td>Icy Cave</td>
+	<td>Obtain 5000+ Dream Points</td>
+</tr>
+<tr>
+	<td>Elgyem</td>
+	<td>Analytic</td>
+	<td>Spooky Manor</td>
+	<td></td>
+</tr>
+<tr>
+	<td>Axew</td>
+	<td>Unnerve</td>
+	<td>Icy Cave</td>
+	<td>Obtain 10000+ Dream Points</td>
+</tr>
+<tr>
+	<td>Shelmet</td>
+	<td>Overcoat</td>
+	<td>Pleasant Forest</td>
+	<td></td>
+</tr>
+<tr>
+	<td>Stunfisk</td>
+	<td>Sand Veil</td>
+	<td>Sparkling Sea</td>
+	<td></td>
+</tr>
+<tr>
+	<td>Druddigon</td>
+	<td>Mold Breaker</td>
+	<td>Icy Cave</td>
+	<td></td>
+</tr>
+<tr>
+	<td>Golett</td>
+	<td>No Guard</td>
+	<td>Spooky Manor</td>
+	<td>Obtain 10000+ Dream Points</td>
+</tr>
+<tr>
+	<td>Pawniard</td>
+	<td>Pressure</td>
+	<td>Spooky Manor</td>
+	<td></td>
+</tr>
+<tr>
+	<td>Heatmor</td>
+	<td>White Smoke</td>
+	<td>Rugged Mountain</td>
+	<td></td>
+</tr>
+<tr>
+	<td>Durant</td>
+	<td>Truant</td>
+	<td>Rugged Mountain</td>
+	<td></td>
+</tr>

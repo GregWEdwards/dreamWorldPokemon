@@ -1,0 +1,107 @@
+<tr style="background:#d1d1fa">
+<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/File:012_Mini_Sprite.png" class="mw-file-description"><img src="https://cdn.staticneo.com/w/pokemon/1/12/012_Mini_Sprite.png" decoding="async" width="32" height="32" class="mw-file-element"></a></span>
+</td>
+<td><a href="/wiki/Butterfree" title="Butterfree">Butterfree</a>
+</td>
+<td><a href="/wiki/Tinted_Lens" title="Tinted Lens">Tinted Lens</a>
+</td>
+<td>Windswept Sky
+</td>
+<td>Available
+</td></tr>
+
+<tr style="background:#d1d1fa">
+<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/File:015_Mini_Sprite.png" class="mw-file-description"><img src="https://cdn.staticneo.com/w/pokemon/e/ea/015_Mini_Sprite.png" decoding="async" width="32" height="32" class="mw-file-element"></a></span>
+</td>
+<td><a href="/wiki/Beedrill" title="Beedrill">Beedrill</a>
+</td>
+<td><a href="/wiki/Sniper" title="Sniper">Sniper</a>
+</td>
+<td>Dream Park
+</td>
+<td><span style="background:transparent none repeat scroll 0 0;border-bottom:1px dotted black; color:black;cursor:help;" title="Black &amp; White Exclusive">Available</span>
+</td></tr>
+
+<tr style="background:#d1d1fa">
+<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/File:016_Mini_Sprite.png" class="mw-file-description"><img src="https://cdn.staticneo.com/w/pokemon/3/3a/016_Mini_Sprite.png" decoding="async" width="32" height="32" class="mw-file-element"></a></span>
+</td>
+<td><a href="/wiki/Pidgey" title="Pidgey">Pidgey</a>
+</td>
+<td><a href="/wiki/Big_Pecks" title="Big Pecks">Big Pecks</a>
+</td>
+<td>Windswept Sky
+</td>
+<td>Available
+</td></tr>
+
+<tr style="background:#d1d1fa">
+<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/File:019_Mini_Sprite.png" class="mw-file-description"><img src="https://cdn.staticneo.com/w/pokemon/0/0a/019_Mini_Sprite.png" decoding="async" width="32" height="32" class="mw-file-element"></a></span>
+</td>
+<td><a href="/wiki/Rattata" title="Rattata">Rattata</a>
+</td>
+<td><a href="/wiki/Hustle" title="Hustle">Hustle</a>
+</td>
+<td>Pleasant Forest
+</td>
+<td>Available
+</td></tr>
+
+<tr style="background:#d1d1fa">
+<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/File:021_Mini_Sprite.png" class="mw-file-description"><img src="https://cdn.staticneo.com/w/pokemon/f/f1/021_Mini_Sprite.png" decoding="async" width="32" height="32" class="mw-file-element"></a></span>
+</td>
+<td><a href="/wiki/Spearow" title="Spearow">Spearow</a>
+</td>
+<td><a href="/wiki/Sniper" title="Sniper">Sniper</a>
+</td>
+<td>Windswept Sky
+</td>
+<td>Available
+</td></tr>
+
+<tr>
+<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/File:023_Mini_Sprite.png" class="mw-file-description"><img src="https://cdn.staticneo.com/w/pokemon/2/2e/023_Mini_Sprite.png" decoding="async" width="32" height="32" class="mw-file-element"></a></span>
+</td>
+<td><a href="/wiki/Ekans" title="Ekans">Ekans</a>
+</td>
+<td><a href="/wiki/Unnerve" title="Unnerve">Unnerve</a>
+</td>
+<td>Dream Park
+</td>
+<td><span style="background:transparent none repeat scroll 0 0;border-bottom:1px dotted black; color:black;cursor:help;" title="Obtain 5,000+ Dream Points">Available</span>
+</td></tr>
+
+<tr style="background:#d1d1fa">
+<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/File:027_Mini_Sprite.png" class="mw-file-description"><img src="https://cdn.staticneo.com/w/pokemon/2/2c/027_Mini_Sprite.png" decoding="async" width="32" height="32" class="mw-file-element"></a></span>
+</td>
+<td><a href="/wiki/Sandshrew" title="Sandshrew">Sandshrew</a>
+</td>
+<td><a href="/wiki/Sand_Rush" title="Sand Rush">Sand Rush</a>
+</td>
+<td>Icy Cave
+</td>
+<td>Available
+</td></tr>
+
+<tr style="background:#d1d1fa">
+<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/File:029_Mini_Sprite.png" class="mw-file-description"><img src="https://cdn.staticneo.com/w/pokemon/5/5b/029_Mini_Sprite.png" decoding="async" width="32" height="32" class="mw-file-element"></a></span>
+</td>
+<td><a href="/wiki/Nidoran_(F)" title="Nidoran (F)">Nidoran (F)</a>
+</td>
+<td><a href="/wiki/Hustle" title="Hustle">Hustle</a>
+</td>
+<td>Pleasant Forest
+</td>
+<td>Available
+</td></tr>
+
+<tr style="background:#d1d1fa">
+<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/File:032_Mini_Sprite.png" class="mw-file-description"><img src="https://cdn.staticneo.com/w/pokemon/d/dd/032_Mini_Sprite.png" decoding="async" width="32" height="32" class="mw-file-element"></a></span>
+</td>
+<td><a href="/wiki/Nidoran_(M)" title="Nidoran (M)">Nidoran (M)</a>
+</td>
+<td><a href="/wiki/Hustle" title="Hustle">Hustle</a>
+</td>
+<td>Pleasant Forest
+</td>
+<td>Available
+</td></tr>

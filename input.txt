@@ -1,0 +1,2813 @@
+<tr style="background:#d1d1fa">
+<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/File:012_Mini_Sprite.png" class="mw-file-description"><img src="https://cdn.staticneo.com/w/pokemon/1/12/012_Mini_Sprite.png" decoding="async" width="32" height="32" class="mw-file-element"></a></span>
+</td>
+<td><a href="/wiki/Butterfree" title="Butterfree">Butterfree</a>
+</td>
+<td><a href="/wiki/Tinted_Lens" title="Tinted Lens">Tinted Lens</a>
+</td>
+<td>Windswept Sky
+</td>
+<td>Available
+</td></tr>
+
+<tr style="background:#d1d1fa">
+<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/File:015_Mini_Sprite.png" class="mw-file-description"><img src="https://cdn.staticneo.com/w/pokemon/e/ea/015_Mini_Sprite.png" decoding="async" width="32" height="32" class="mw-file-element"></a></span>
+</td>
+<td><a href="/wiki/Beedrill" title="Beedrill">Beedrill</a>
+</td>
+<td><a href="/wiki/Sniper" title="Sniper">Sniper</a>
+</td>
+<td>Dream Park
+</td>
+<td><span style="background:transparent none repeat scroll 0 0;border-bottom:1px dotted black; color:black;cursor:help;" title="Black &amp; White Exclusive">Available</span>
+</td></tr>
+
+<tr style="background:#d1d1fa">
+<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/File:016_Mini_Sprite.png" class="mw-file-description"><img src="https://cdn.staticneo.com/w/pokemon/3/3a/016_Mini_Sprite.png" decoding="async" width="32" height="32" class="mw-file-element"></a></span>
+</td>
+<td><a href="/wiki/Pidgey" title="Pidgey">Pidgey</a>
+</td>
+<td><a href="/wiki/Big_Pecks" title="Big Pecks">Big Pecks</a>
+</td>
+<td>Windswept Sky
+</td>
+<td>Available
+</td></tr>
+
+<tr style="background:#d1d1fa">
+<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/File:019_Mini_Sprite.png" class="mw-file-description"><img src="https://cdn.staticneo.com/w/pokemon/0/0a/019_Mini_Sprite.png" decoding="async" width="32" height="32" class="mw-file-element"></a></span>
+</td>
+<td><a href="/wiki/Rattata" title="Rattata">Rattata</a>
+</td>
+<td><a href="/wiki/Hustle" title="Hustle">Hustle</a>
+</td>
+<td>Pleasant Forest
+</td>
+<td>Available
+</td></tr>
+
+<tr style="background:#d1d1fa">
+<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/File:021_Mini_Sprite.png" class="mw-file-description"><img src="https://cdn.staticneo.com/w/pokemon/f/f1/021_Mini_Sprite.png" decoding="async" width="32" height="32" class="mw-file-element"></a></span>
+</td>
+<td><a href="/wiki/Spearow" title="Spearow">Spearow</a>
+</td>
+<td><a href="/wiki/Sniper" title="Sniper">Sniper</a>
+</td>
+<td>Windswept Sky
+</td>
+<td>Available
+</td></tr>
+
+<tr>
+<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/File:023_Mini_Sprite.png" class="mw-file-description"><img src="https://cdn.staticneo.com/w/pokemon/2/2e/023_Mini_Sprite.png" decoding="async" width="32" height="32" class="mw-file-element"></a></span>
+</td>
+<td><a href="/wiki/Ekans" title="Ekans">Ekans</a>
+</td>
+<td><a href="/wiki/Unnerve" title="Unnerve">Unnerve</a>
+</td>
+<td>Dream Park
+</td>
+<td><span style="background:transparent none repeat scroll 0 0;border-bottom:1px dotted black; color:black;cursor:help;" title="Obtain 5,000+ Dream Points">Available</span>
+</td></tr>
+
+<tr style="background:#d1d1fa">
+<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/File:027_Mini_Sprite.png" class="mw-file-description"><img src="https://cdn.staticneo.com/w/pokemon/2/2c/027_Mini_Sprite.png" decoding="async" width="32" height="32" class="mw-file-element"></a></span>
+</td>
+<td><a href="/wiki/Sandshrew" title="Sandshrew">Sandshrew</a>
+</td>
+<td><a href="/wiki/Sand_Rush" title="Sand Rush">Sand Rush</a>
+</td>
+<td>Icy Cave
+</td>
+<td>Available
+</td></tr>
+
+<tr style="background:#d1d1fa">
+<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/File:029_Mini_Sprite.png" class="mw-file-description"><img src="https://cdn.staticneo.com/w/pokemon/5/5b/029_Mini_Sprite.png" decoding="async" width="32" height="32" class="mw-file-element"></a></span>
+</td>
+<td><a href="/wiki/Nidoran_(F)" title="Nidoran (F)">Nidoran (F)</a>
+</td>
+<td><a href="/wiki/Hustle" title="Hustle">Hustle</a>
+</td>
+<td>Pleasant Forest
+</td>
+<td>Available
+</td></tr>
+
+<tr style="background:#d1d1fa">
+<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/File:032_Mini_Sprite.png" class="mw-file-description"><img src="https://cdn.staticneo.com/w/pokemon/d/dd/032_Mini_Sprite.png" decoding="async" width="32" height="32" class="mw-file-element"></a></span>
+</td>
+<td><a href="/wiki/Nidoran_(M)" title="Nidoran (M)">Nidoran (M)</a>
+</td>
+<td><a href="/wiki/Hustle" title="Hustle">Hustle</a>
+</td>
+<td>Pleasant Forest
+</td>
+<td>Available
+</td></tr>
+
+<tr style="background:#d1d1fa">
+<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/File:037_Mini_Sprite.png" class="mw-file-description"><img src="https://cdn.staticneo.com/w/pokemon/7/76/037_Mini_Sprite.png" decoding="async" width="32" height="32" class="mw-file-element"></a></span>
+</td>
+<td><a href="/wiki/Vulpix" title="Vulpix">Vulpix</a>
+</td>
+<td><a href="/wiki/Drought" title="Drought">Drought</a>
+</td>
+<td>Pleasant Forest
+</td>
+<td><span style="background:transparent none repeat scroll 0 0;border-bottom:1px dotted black; color:black;cursor:help;" title="Obtain 10000+ Dream Points">Available</span>
+</td></tr>
+
+<tr style="background:#d1d1fa">
+<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/File:041_Mini_Sprite.png" class="mw-file-description"><img src="https://cdn.staticneo.com/w/pokemon/a/aa/041_Mini_Sprite.png" decoding="async" width="32" height="32" class="mw-file-element"></a></span>
+</td>
+<td><a href="/wiki/Zubat" title="Zubat">Zubat</a>
+</td>
+<td><a href="/wiki/Infiltrator" title="Infiltrator">Infiltrator</a>
+</td>
+<td>Windswept Sky
+</td>
+<td>Available
+</td></tr>
+
+<tr style="background:#d1d1fa">
+<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/File:043_Mini_Sprite.png" class="mw-file-description"><img src="https://cdn.staticneo.com/w/pokemon/d/d1/043_Mini_Sprite.png" decoding="async" width="32" height="32" class="mw-file-element"></a></span>
+</td>
+<td><a href="/wiki/Oddish" title="Oddish">Oddish</a>
+</td>
+<td><a href="/wiki/Run_Away" title="Run Away">Run Away</a>
+</td>
+<td>Pleasant Forest
+</td>
+<td>Available
+</td></tr>
+
+<tr style="background:#d1d1fa">
+<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/File:046_Mini_Sprite.png" class="mw-file-description"><img src="https://cdn.staticneo.com/w/pokemon/d/d7/046_Mini_Sprite.png" decoding="async" width="32" height="32" class="mw-file-element"></a></span>
+</td>
+<td><a href="/wiki/Paras" title="Paras">Paras</a>
+</td>
+<td><a href="/wiki/Damp" title="Damp">Damp</a>
+</td>
+<td>Dream Park
+</td>
+<td>Available
+</td></tr>
+
+<tr style="background:#d1d1fa">
+<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/File:048_Mini_Sprite.png" class="mw-file-description"><img src="https://cdn.staticneo.com/w/pokemon/2/2d/048_Mini_Sprite.png" decoding="async" width="32" height="32" class="mw-file-element"></a></span>
+</td>
+<td><a href="/wiki/Venonat" title="Venonat">Venonat</a>
+</td>
+<td><a href="/wiki/Run_Away" title="Run Away">Run Away</a>
+</td>
+<td>Dream Park
+</td>
+<td><span style="background:transparent none repeat scroll 0 0;border-bottom:1px dotted black; color:black;cursor:help;" title="Black &amp; White Exclusive">Available</span>
+</td></tr>
+
+<tr style="background:#d1d1fa">
+<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/File:050_Mini_Sprite.png" class="mw-file-description"><img src="https://cdn.staticneo.com/w/pokemon/5/5c/050_Mini_Sprite.png" decoding="async" width="32" height="32" class="mw-file-element"></a></span>
+</td>
+<td><a href="/wiki/Diglett" title="Diglett">Diglett</a>
+</td>
+<td><a href="/wiki/Sand_Force" title="Sand Force">Sand Force</a>
+</td>
+<td>Icy Cave
+</td>
+<td><span style="background:transparent none repeat scroll 0 0;border-bottom:1px dotted black; color:black;cursor:help;" title="Obtain 5000+ Dream Points">Available</span>
+</td></tr>
+
+<tr style="background:#d1d1fa">
+<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/File:052_Mini_Sprite.png" class="mw-file-description"><img src="https://cdn.staticneo.com/w/pokemon/1/1e/052_Mini_Sprite.png" decoding="async" width="32" height="32" class="mw-file-element"></a></span>
+</td>
+<td><a href="/wiki/Meowth" title="Meowth">Meowth</a>
+</td>
+<td><a href="/wiki/Unnerve" title="Unnerve">Unnerve</a>
+</td>
+<td>Spooky Manor
+</td>
+<td><span style="background:transparent none repeat scroll 0 0;border-bottom:1px dotted black; color:black;cursor:help;" title="Obtain 5000+ Dream Points">Available</span>
+</td></tr>
+
+<tr style="background:#d1d1fa">
+<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/File:054_Mini_Sprite.png" class="mw-file-description"><img src="https://cdn.staticneo.com/w/pokemon/9/9f/054_Mini_Sprite.png" decoding="async" width="32" height="32" class="mw-file-element"></a></span>
+</td>
+<td><a href="/wiki/Psyduck" title="Psyduck">Psyduck</a>
+</td>
+<td><a href="/wiki/Swift_Swim" title="Swift Swim">Swift Swim</a>
+</td>
+<td>Pleasant Forest
+</td>
+<td><span style="background:transparent none repeat scroll 0 0;border-bottom:1px dotted black; color:black;cursor:help;" title="Obtain 5000+ Dream Points">Available</span>
+</td></tr>
+
+<tr style="background:#d1d1fa">
+<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/File:056_Mini_Sprite.png" class="mw-file-description"><img src="https://cdn.staticneo.com/w/pokemon/2/2b/056_Mini_Sprite.png" decoding="async" width="32" height="32" class="mw-file-element"></a></span>
+</td>
+<td><a href="/wiki/Mankey" title="Mankey">Mankey</a>
+</td>
+<td><a href="/wiki/Defiant" title="Defiant">Defiant</a>
+</td>
+<td>Rugged Mountain
+</td>
+<td>Available
+</td></tr>
+
+<tr style="background:#d1d1fa">
+<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/File:058_Mini_Sprite.png" class="mw-file-description"><img src="https://cdn.staticneo.com/w/pokemon/d/d6/058_Mini_Sprite.png" decoding="async" width="32" height="32" class="mw-file-element"></a></span>
+</td>
+<td><a href="/wiki/Growlithe" title="Growlithe">Growlithe</a>
+</td>
+<td><a href="/wiki/Justified" title="Justified">Justified</a>
+</td>
+<td>Pleasant Forest
+</td>
+<td><span style="background:transparent none repeat scroll 0 0;border-bottom:1px dotted black; color:black;cursor:help;" title="Obtain 5000+ Dream Points">Available</span>
+</td></tr>
+
+<tr style="background:#d1d1fa">
+<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/File:060_Mini_Sprite.png" class="mw-file-description"><img src="https://cdn.staticneo.com/w/pokemon/d/dc/060_Mini_Sprite.png" decoding="async" width="32" height="32" class="mw-file-element"></a></span>
+</td>
+<td><a href="/wiki/Poliwag" title="Poliwag">Poliwag</a>
+</td>
+<td><a href="/wiki/Swift_Swim" title="Swift Swim">Swift Swim</a>
+</td>
+<td>Pleasant Forest
+</td>
+<td><span style="background:transparent none repeat scroll 0 0;border-bottom:1px dotted black; color:black;cursor:help;" title="Obtain 10000+ Dream Points">Available</span>
+</td></tr>
+<tr style="background:#d1d1fa">
+<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/File:061_Mini_Sprite.png" class="mw-file-description"><img src="https://cdn.staticneo.com/w/pokemon/5/5b/061_Mini_Sprite.png" decoding="async" width="32" height="32" class="mw-file-element"></a></span>
+</td>
+<td><a href="/wiki/Poliwhirl" title="Poliwhirl">Poliwhirl</a>
+</td>
+<td><a href="/wiki/Swift_Swim" title="Swift Swim">Swift Swim</a>
+</td>
+<td>Pokemon Café Forest (Event Zone)
+</td>
+<td>Available
+</td></tr>
+
+<tr style="background:#d1d1fa">
+<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/File:063_Mini_Sprite.png" class="mw-file-description"><img src="https://cdn.staticneo.com/w/pokemon/2/2d/063_Mini_Sprite.png" decoding="async" width="32" height="32" class="mw-file-element"></a></span>
+</td>
+<td><a href="/wiki/Abra" title="Abra">Abra</a>
+</td>
+<td><a href="/wiki/Magic_Guard" title="Magic Guard">Magic Guard</a>
+</td>
+<td>Spooky Manor
+</td>
+<td><span style="background:transparent none repeat scroll 0 0;border-bottom:1px dotted black; color:black;cursor:help;" title="Obtain 10000+ Dream Points">Available</span>
+</td></tr>
+
+<tr style="background:#d1d1fa">
+<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/File:066_Mini_Sprite.png" class="mw-file-description"><img src="https://cdn.staticneo.com/w/pokemon/3/32/066_Mini_Sprite.png" decoding="async" width="32" height="32" class="mw-file-element"></a></span>
+</td>
+<td><a href="/wiki/Machop" title="Machop">Machop</a>
+</td>
+<td><a href="/wiki/Steadfast" title="Steadfast">Steadfast</a>
+</td>
+<td>Rugged Mountain
+</td>
+<td>Available
+</td></tr>
+
+<tr style="background:#d1d1fa">
+<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/File:069_Mini_Sprite.png" class="mw-file-description"><img src="https://cdn.staticneo.com/w/pokemon/f/ff/069_Mini_Sprite.png" decoding="async" width="32" height="32" class="mw-file-element"></a></span>
+</td>
+<td><a href="/wiki/Bellsprout" title="Bellsprout">Bellsprout</a>
+</td>
+<td><a href="/wiki/Gluttony" title="Gluttony">Gluttony</a>
+</td>
+<td>Pleasant Forest
+</td>
+<td>Available
+</td></tr>
+
+<tr style="background:#d1d1fa">
+<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/File:072_Mini_Sprite.png" class="mw-file-description"><img src="https://cdn.staticneo.com/w/pokemon/a/ab/072_Mini_Sprite.png" decoding="async" width="32" height="32" class="mw-file-element"></a></span>
+</td>
+<td><a href="/wiki/Tentacool" title="Tentacool">Tentacool</a>
+</td>
+<td><a href="/wiki/Rain_Dish" title="Rain Dish">Rain Dish</a>
+</td>
+<td>Sparkling Sea
+</td>
+<td><span style="background:transparent none repeat scroll 0 0;border-bottom:1px dotted black; color:black;cursor:help;" title="Obtain 5000+ Dream Points">Available</span>
+</td></tr>
+
+<tr style="background:#d1d1fa">
+<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/File:074_Mini_Sprite.png" class="mw-file-description"><img src="https://cdn.staticneo.com/w/pokemon/5/5c/074_Mini_Sprite.png" decoding="async" width="32" height="32" class="mw-file-element"></a></span>
+</td>
+<td><a href="/wiki/Geodude" title="Geodude">Geodude</a>
+</td>
+<td><a href="/wiki/Sand_Veil" title="Sand Veil">Sand Veil</a>
+</td>
+<td>Icy Cave
+</td>
+<td>Available
+</td></tr>
+
+
+<tr style="background:#d1d1fa">
+<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/File:077_Mini_Sprite.png" class="mw-file-description"><img src="https://cdn.staticneo.com/w/pokemon/4/4a/077_Mini_Sprite.png" decoding="async" width="32" height="32" class="mw-file-element"></a></span>
+</td>
+<td><a href="/wiki/Ponyta" title="Ponyta">Ponyta</a>
+</td>
+<td><a href="/wiki/Flame_Body" title="Flame Body">Flame Body</a>
+</td>
+<td>Pleasant Forest
+</td>
+<td>Available
+</td></tr>
+
+<tr style="background:#d1d1fa">
+<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/File:079_Mini_Sprite.png" class="mw-file-description"><img src="https://cdn.staticneo.com/w/pokemon/f/fd/079_Mini_Sprite.png" decoding="async" width="32" height="32" class="mw-file-element"></a></span>
+</td>
+<td><a href="/wiki/Slowpoke" title="Slowpoke">Slowpoke</a>
+</td>
+<td><a href="/wiki/Regenerator" title="Regenerator">Regenerator</a>
+</td>
+<td>Sparkling Sea
+</td>
+<td>Available
+</td></tr>
+
+<tr style="background:#d1d1fa">
+<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/File:081_Mini_Sprite.png" class="mw-file-description"><img src="https://cdn.staticneo.com/w/pokemon/0/0a/081_Mini_Sprite.png" decoding="async" width="32" height="32" class="mw-file-element"></a></span>
+</td>
+<td><a href="/wiki/Magnemite" title="Magnemite">Magnemite</a>
+</td>
+<td><a href="/wiki/Analytic" title="Analytic">Analytic</a>
+</td>
+<td>Rugged Mountain
+</td>
+<td>Available
+</td></tr>
+
+<tr style="background:#d1d1fa">
+<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/File:083_Mini_Sprite.png" class="mw-file-description"><img src="https://cdn.staticneo.com/w/pokemon/7/77/083_Mini_Sprite.png" decoding="async" width="32" height="32" class="mw-file-element"></a></span>
+</td>
+<td><a href="/wiki/Farfetch%27d" title="Farfetch'd">Farfetch'd</a>
+</td>
+<td><a href="/wiki/Defiant" title="Defiant">Defiant</a>
+</td>
+<td>Pleasant Forest
+</td>
+<td>Available
+</td></tr>
+<tr style="background:#d1d1fa">
+<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/File:084_Mini_Sprite.png" class="mw-file-description"><img src="https://cdn.staticneo.com/w/pokemon/4/42/084_Mini_Sprite.png" decoding="async" width="32" height="32" class="mw-file-element"></a></span>
+</td>
+<td><a href="/wiki/Doduo" title="Doduo">Doduo</a>
+</td>
+<td><a href="/wiki/Tangled_Feet" title="Tangled Feet">Tangled Feet</a>
+</td>
+<td>Pleasant Forest
+</td>
+<td>Available
+</td></tr>
+
+<tr style="background:#d1d1fa">
+<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/File:086_Mini_Sprite.png" class="mw-file-description"><img src="https://cdn.staticneo.com/w/pokemon/a/aa/086_Mini_Sprite.png" decoding="async" width="40" height="40" class="mw-file-element"></a></span>
+</td>
+<td><a href="/wiki/Seel" title="Seel">Seel</a>
+</td>
+<td><a href="/wiki/Ice_Body" title="Ice Body">Ice Body</a>
+</td>
+<td>Sparkling Sea
+</td>
+<td>Available
+</td></tr>
+
+<tr>
+<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/File:088_Mini_Sprite.png" class="mw-file-description"><img src="https://cdn.staticneo.com/w/pokemon/2/2b/088_Mini_Sprite.png" decoding="async" width="32" height="32" class="mw-file-element"></a></span>
+</td>
+<td><a href="/wiki/Grimer" title="Grimer">Grimer</a>
+</td>
+<td><a href="/wiki/Poison_Touch" title="Poison Touch">Poison Touch</a>
+</td>
+<td>Dream Park
+</td>
+<td><span style="background:transparent none repeat scroll 0 0;border-bottom:1px dotted black; color:black;cursor:help;" title="Black &amp; White Exclusive">Available</span>
+</td></tr>
+
+<tr style="background:#d1d1fa">
+<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/File:090_Mini_Sprite.png" class="mw-file-description"><img src="https://cdn.staticneo.com/w/pokemon/3/3e/090_Mini_Sprite.png" decoding="async" width="40" height="40" class="mw-file-element"></a></span>
+</td>
+<td><a href="/wiki/Shellder" title="Shellder">Shellder</a>
+</td>
+<td><a href="/wiki/Overcoat" title="Overcoat">Overcoat</a>
+</td>
+<td>Sparkling Sea
+</td>
+<td>Available
+</td></tr>
+
+<tr style="background:#d1d1fa">
+<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/File:092_Mini_Sprite.png" class="mw-file-description"><img src="https://cdn.staticneo.com/w/pokemon/7/7d/092_Mini_Sprite.png" decoding="async" width="32" height="32" class="mw-file-element"></a></span>
+</td>
+<td><a href="/wiki/Gastly" title="Gastly">Gastly</a>
+</td>
+<td><a href="/wiki/Levitate" title="Levitate">Levitate</a>
+</td>
+<td>Spooky Manor
+</td>
+<td>Available
+</td></tr>
+
+
+<tr style="background:#d1d1fa">
+<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/File:095_Mini_Sprite.png" class="mw-file-description"><img src="https://cdn.staticneo.com/w/pokemon/b/b0/095_Mini_Sprite.png" decoding="async" width="32" height="32" class="mw-file-element"></a></span>
+</td>
+<td><a href="/wiki/Onix" title="Onix">Onix</a>
+</td>
+<td><a href="/wiki/Weak_Armor" title="Weak Armor">Weak Armor</a>
+</td>
+<td>Icy Cave
+</td>
+<td>Available
+</td></tr>
+<tr style="background:#d1d1fa">
+<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/File:096_Mini_Sprite.png" class="mw-file-description"><img src="https://cdn.staticneo.com/w/pokemon/4/47/096_Mini_Sprite.png" decoding="async" width="32" height="32" class="mw-file-element"></a></span>
+</td>
+<td><a href="/wiki/Drowzee" title="Drowzee">Drowzee</a>
+</td>
+<td><a href="/wiki/Inner_Focus" title="Inner Focus">Inner Focus</a>
+</td>
+<td>Spooky Manor
+</td>
+<td>Available
+</td></tr>
+
+<tr style="background:#d1d1fa">
+<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/File:098_Mini_Sprite.png" class="mw-file-description"><img src="https://cdn.staticneo.com/w/pokemon/a/a6/098_Mini_Sprite.png" decoding="async" width="32" height="32" class="mw-file-element"></a></span>
+</td>
+<td><a href="/wiki/Krabby" title="Krabby">Krabby</a>
+</td>
+<td><a href="/wiki/Sheer_Force" title="Sheer Force">Sheer Force</a>
+</td>
+<td>Sparkling Sea
+</td>
+<td>Available
+</td></tr>
+
+<tr>
+<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/File:100_Mini_Sprite.png" class="mw-file-description"><img src="https://cdn.staticneo.com/w/pokemon/f/ff/100_Mini_Sprite.png" decoding="async" width="32" height="32" class="mw-file-element"></a></span>
+</td>
+<td><a href="/wiki/Voltorb" title="Voltorb">Voltorb</a>
+</td>
+<td><a href="/wiki/Aftermath" title="Aftermath">Aftermath</a>
+</td>
+<td>Icy Cave
+</td>
+<td>Available
+</td></tr>
+
+<tr style="background:#d1d1fa">
+<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/File:102_Mini_Sprite.png" class="mw-file-description"><img src="https://cdn.staticneo.com/w/pokemon/6/61/102_Mini_Sprite.png" decoding="async" width="32" height="32" class="mw-file-element"></a></span>
+</td>
+<td><a href="/wiki/Exeggcute" title="Exeggcute">Exeggcute</a>
+</td>
+<td><a href="/wiki/Harvest" title="Harvest">Harvest</a>
+</td>
+<td>Pleasant Forest
+</td>
+<td>Available
+</td></tr>
+
+<tr style="background:#d1d1fa">
+<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/File:104_Mini_Sprite.png" class="mw-file-description"><img src="https://cdn.staticneo.com/w/pokemon/6/61/104_Mini_Sprite.png" decoding="async" width="32" height="32" class="mw-file-element"></a></span>
+</td>
+<td><a href="/wiki/Cubone" title="Cubone">Cubone</a>
+</td>
+<td><a href="/wiki/Battle_Armor" title="Battle Armor">Battle Armor</a>
+</td>
+<td>Icy Cave
+</td>
+<td>Available
+</td></tr>
+
+
+
+<tr style="background:#d1d1fa">
+<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/File:108_Mini_Sprite.png" class="mw-file-description"><img src="https://cdn.staticneo.com/w/pokemon/d/dd/108_Mini_Sprite.png" decoding="async" width="32" height="32" class="mw-file-element"></a></span>
+</td>
+<td><a href="/wiki/Lickitung" title="Lickitung">Lickitung</a>
+</td>
+<td><a href="/wiki/Cloud_Nine" title="Cloud Nine">Cloud Nine</a>
+</td>
+<td>Pleasant Forest
+</td>
+<td>Available
+</td></tr>
+<tr style="background:#d1d1fa">
+<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/File:109_Mini_Sprite.png" class="mw-file-description"><img src="https://cdn.staticneo.com/w/pokemon/c/ce/109_Mini_Sprite.png" decoding="async" width="32" height="32" class="mw-file-element"></a></span>
+</td>
+<td><a href="/wiki/Koffing" title="Koffing">Koffing</a>
+</td>
+<td><a href="/wiki/Levitate" title="Levitate">Levitate</a>
+</td>
+<td>Rugged Mountain
+</td>
+<td>Available
+</td></tr>
+
+<tr style="background:#d1d1fa">
+<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/File:111_Mini_Sprite.png" class="mw-file-description"><img src="https://cdn.staticneo.com/w/pokemon/8/85/111_Mini_Sprite.png" decoding="async" width="32" height="32" class="mw-file-element"></a></span>
+</td>
+<td><a href="/wiki/Rhyhorn" title="Rhyhorn">Rhyhorn</a>
+</td>
+<td><a href="/wiki/Reckless" title="Reckless">Reckless</a>
+</td>
+<td>Rugged Mountain
+</td>
+<td>Available
+</td></tr>
+
+<tr style="background:#d1d1fa">
+<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/File:113_Mini_Sprite.png" class="mw-file-description"><img src="https://cdn.staticneo.com/w/pokemon/1/18/113_Mini_Sprite.png" decoding="async" width="32" height="32" class="mw-file-element"></a></span>
+</td>
+<td><a href="/wiki/Chansey" title="Chansey">Chansey</a>
+</td>
+<td><a href="/wiki/Healer" title="Healer">Healer</a>
+</td>
+<td>Dream Park
+</td>
+<td><span style="background:transparent none repeat scroll 0 0;border-bottom:1px dotted black; color:black;cursor:help;" title="Obtain 10000+ Dream Points">Available</span>
+</td></tr>
+<tr style="background:#d1d1fa">
+<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/File:114_Mini_Sprite.png" class="mw-file-description"><img src="https://cdn.staticneo.com/w/pokemon/6/60/114_Mini_Sprite.png" decoding="async" width="32" height="32" class="mw-file-element"></a></span>
+</td>
+<td><a href="/wiki/Tangela" title="Tangela">Tangela</a>
+</td>
+<td><a href="/wiki/Regenerator" title="Regenerator">Regenerator</a>
+</td>
+<td>Pleasant Forest
+</td>
+<td>Available
+</td></tr>
+<tr style="background:#d1d1fa">
+<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/File:115_Mini_Sprite.png" class="mw-file-description"><img src="https://cdn.staticneo.com/w/pokemon/5/5a/115_Mini_Sprite.png" decoding="async" width="40" height="40" class="mw-file-element"></a></span>
+</td>
+<td><a href="/wiki/Kangaskhan" title="Kangaskhan">Kangaskhan</a>
+</td>
+<td><a href="/wiki/Inner_Focus" title="Inner Focus">Inner Focus</a>
+</td>
+<td>Pleasant Forest
+</td>
+<td>Available
+</td></tr>
+<tr style="background:#d1d1fa">
+<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/File:116_Mini_Sprite.png" class="mw-file-description"><img src="https://cdn.staticneo.com/w/pokemon/9/99/116_Mini_Sprite.png" decoding="async" width="32" height="32" class="mw-file-element"></a></span>
+</td>
+<td><a href="/wiki/Horsea" title="Horsea">Horsea</a>
+</td>
+<td><a href="/wiki/Damp" title="Damp">Damp</a>
+</td>
+<td>Sparkling Sea
+</td>
+<td>Available
+</td></tr>
+
+<tr style="background:#d1d1fa">
+<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/File:118_Mini_Sprite.png" class="mw-file-description"><img src="https://cdn.staticneo.com/w/pokemon/e/ed/118_Mini_Sprite.png" decoding="async" width="32" height="32" class="mw-file-element"></a></span>
+</td>
+<td><a href="/wiki/Goldeen" title="Goldeen">Goldeen</a>
+</td>
+<td><a href="/wiki/Lightningrod" class="mw-redirect" title="Lightningrod">Lightningrod</a>
+</td>
+<td>Sparkling Sea
+</td>
+<td>Available
+</td></tr>
+<tr style="background:#d1d1fa">
+<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/File:119_Mini_Sprite.png" class="mw-file-description"><img src="https://cdn.staticneo.com/w/pokemon/a/ad/119_Mini_Sprite.png" decoding="async" width="32" height="32" class="mw-file-element"></a></span>
+</td>
+<td><a href="/wiki/Seaking" title="Seaking">Seaking</a>
+</td>
+<td><a href="/wiki/Lightningrod" class="mw-redirect" title="Lightningrod">Lightningrod</a>
+</td>
+<td>Sparkling Sea
+</td>
+<td>Available
+</td></tr>
+<tr style="background:#d1d1fa">
+<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/File:120_Mini_Sprite.png" class="mw-file-description"><img src="https://cdn.staticneo.com/w/pokemon/9/9f/120_Mini_Sprite.png" decoding="async" width="32" height="32" class="mw-file-element"></a></span>
+</td>
+<td><a href="/wiki/Staryu" title="Staryu">Staryu</a>
+</td>
+<td><a href="/wiki/Analytic" title="Analytic">Analytic</a>
+</td>
+<td>Sparkling Sea
+</td>
+<td>Available
+</td></tr>
+
+<tr style="background:#d1d1fa">
+<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/File:122_Mini_Sprite.png" class="mw-file-description"><img src="https://cdn.staticneo.com/w/pokemon/4/4d/122_Mini_Sprite.png" decoding="async" width="32" height="32" class="mw-file-element"></a></span>
+</td>
+<td><a href="/wiki/Mr._Mime" title="Mr. Mime">Mr. Mime</a>
+</td>
+<td><a href="/wiki/Technician" title="Technician">Technician</a>
+</td>
+<td>Spooky Manor
+</td>
+<td>Available
+</td></tr>
+<tr style="background:#d1d1fa">
+<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/File:123_Mini_Sprite.png" class="mw-file-description"><img src="https://cdn.staticneo.com/w/pokemon/e/e1/123_Mini_Sprite.png" decoding="async" width="32" height="32" class="mw-file-element"></a></span>
+</td>
+<td><a href="/wiki/Scyther" title="Scyther">Scyther</a>
+</td>
+<td><a href="/wiki/Steadfast" title="Steadfast">Steadfast</a>
+</td>
+<td>Pleasant Forest
+</td>
+<td><span style="background:transparent none repeat scroll 0 0;border-bottom:1px dotted black; color:black;cursor:help;" title="Obtain 5000+ Dream Points">Available</span>
+</td></tr>
+
+
+
+<tr style="background:#d1d1fa">
+<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/File:127_Mini_Sprite.png" class="mw-file-description"><img src="https://cdn.staticneo.com/w/pokemon/3/34/127_Mini_Sprite.png" decoding="async" width="40" height="40" class="mw-file-element"></a></span>
+</td>
+<td><a href="/wiki/Pinsir" title="Pinsir">Pinsir</a>
+</td>
+<td><a href="/wiki/Moxie" title="Moxie">Moxie</a>
+</td>
+<td>Dream Park
+</td>
+<td><span style="background:transparent none repeat scroll 0 0;border-bottom:1px dotted black; color:black;cursor:help;" title="Obtain 10000+ Dream Points">Available</span>
+</td></tr>
+<tr style="background:#d1d1fa">
+<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/File:128_Mini_Sprite.png" class="mw-file-description"><img src="https://cdn.staticneo.com/w/pokemon/1/12/128_Mini_Sprite.png" decoding="async" width="32" height="32" class="mw-file-element"></a></span>
+</td>
+<td><a href="/wiki/Tauros" title="Tauros">Tauros</a>
+</td>
+<td><a href="/wiki/Sheer_Force" title="Sheer Force">Sheer Force</a>
+</td>
+<td>Pleasant Forest
+</td>
+<td><span style="background:transparent none repeat scroll 0 0;border-bottom:1px dotted black; color:black;cursor:help;" title="Obtain 5000+ Dream Points">Available</span>
+</td></tr>
+<tr style="background:#d1d1fa">
+<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/File:129_Mini_Sprite.png" class="mw-file-description"><img src="https://cdn.staticneo.com/w/pokemon/4/44/129_Mini_Sprite.png" decoding="async" width="32" height="32" class="mw-file-element"></a></span>
+</td>
+<td><a href="/wiki/Magikarp" title="Magikarp">Magikarp</a>
+</td>
+<td><a href="/wiki/Rattled" title="Rattled">Rattled</a>
+</td>
+<td>Sparkling Sea
+</td>
+<td>Available
+</td></tr>
+
+<tr style="background:#d1d1fa">
+<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/File:131_Mini_Sprite.png" class="mw-file-description"><img src="https://cdn.staticneo.com/w/pokemon/6/64/131_Mini_Sprite.png" decoding="async" width="32" height="32" class="mw-file-element"></a></span>
+</td>
+<td><a href="/wiki/Lapras" title="Lapras">Lapras</a>
+</td>
+<td><a href="/wiki/Hydration" title="Hydration">Hydration</a>
+</td>
+<td>Sparkling Sea
+</td>
+<td><span style="background:transparent none repeat scroll 0 0;border-bottom:1px dotted black; color:black;cursor:help;" title="Obtain 10000+ Dream Points">Available</span>
+</td></tr>
+
+<tr style="background:#d1d1fa">
+<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/File:133_Mini_Sprite.png" class="mw-file-description"><img src="https://cdn.staticneo.com/w/pokemon/5/56/133_Mini_Sprite.png" decoding="async" width="32" height="32" class="mw-file-element"></a></span>
+</td>
+<td><a href="/wiki/Eevee" title="Eevee">Eevee</a>
+</td>
+<td><a href="/wiki/Anticipation" title="Anticipation">Anticipation</a>
+</td>
+<td>Pokemon Café Forest (Event Zone)<br>Dream Park
+</td>
+<td><span style="background:transparent none repeat scroll 0 0;border-bottom:1px dotted black; color:black;cursor:help;" title="Obtain 10000+ Dream Points">Available</span>
+</td></tr>
+
+
+
+
+<tr style="background:#d1d1fa">
+<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/File:138_Mini_Sprite.png" class="mw-file-description"><img src="https://cdn.staticneo.com/w/pokemon/2/22/138_Mini_Sprite.png" decoding="async" width="32" height="32" class="mw-file-element"></a></span>
+</td>
+<td><a href="/wiki/Omanyte" title="Omanyte">Omanyte</a>
+</td>
+<td><a href="/wiki/Weak_Armor" title="Weak Armor">Weak Armor</a>
+</td>
+<td>Sparkling Sea
+</td>
+<td>Available
+</td></tr>
+
+<tr style="background:#d1d1fa">
+<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/File:140_Mini_Sprite.png" class="mw-file-description"><img src="https://cdn.staticneo.com/w/pokemon/1/10/140_Mini_Sprite.png" decoding="async" width="32" height="32" class="mw-file-element"></a></span>
+</td>
+<td><a href="/wiki/Kabuto" title="Kabuto">Kabuto</a>
+</td>
+<td><a href="/wiki/Weak_Armor" title="Weak Armor">Weak Armor</a>
+</td>
+<td>Sparkling Sea
+</td>
+<td>Available
+</td></tr>
+
+<tr style="background:#d1d1fa">
+<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/File:142_Mini_Sprite.png" class="mw-file-description"><img src="https://cdn.staticneo.com/w/pokemon/6/67/142_Mini_Sprite.png" decoding="async" width="40" height="40" class="mw-file-element"></a></span>
+</td>
+<td><a href="/wiki/Aerodactyl" title="Aerodactyl">Aerodactyl</a>
+</td>
+<td><a href="/wiki/Unnerve" title="Unnerve">Unnerve</a>
+</td>
+<td>Windswept Sky
+</td>
+<td>Available
+</td></tr>
+<tr style="background:#d1d1fa">
+<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/File:143_Mini_Sprite.png" class="mw-file-description"><img src="https://cdn.staticneo.com/w/pokemon/4/40/143_Mini_Sprite.png" decoding="async" width="32" height="32" class="mw-file-element"></a></span>
+</td>
+<td><a href="/wiki/Snorlax" title="Snorlax">Snorlax</a>
+</td>
+<td><a href="/wiki/Gluttony" title="Gluttony">Gluttony</a>
+</td>
+<td>Dream Park
+</td>
+<td><span style="background:transparent none repeat scroll 0 0;border-bottom:1px dotted black; color:black;cursor:help;" title="Obtain 10000+ Dream Points">Available</span>
+</td></tr>
+
+
+
+<tr style="background:#d1d1fa">
+<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/File:147_Mini_Sprite.png" class="mw-file-description"><img src="https://cdn.staticneo.com/w/pokemon/1/1c/147_Mini_Sprite.png" decoding="async" width="32" height="32" class="mw-file-element"></a></span>
+</td>
+<td><a href="/wiki/Dratini" title="Dratini">Dratini</a>
+</td>
+<td><a href="/wiki/Marvel_Scale" title="Marvel Scale">Marvel Scale</a>
+</td>
+<td>Sparkling Sea
+</td>
+<td><span style="background:transparent none repeat scroll 0 0;border-bottom:1px dotted black; color:black;cursor:help;" title="Obtain 10000+ Dream Points">Available</span>
+</td></tr>
+
+
+
+
+
+
+
+
+
+
+
+
+<tr style="background:#d1d1fa">
+<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/File:161_Mini_Sprite.png" class="mw-file-description"><img src="https://cdn.staticneo.com/w/pokemon/4/49/161_Mini_Sprite.png" decoding="async" width="32" height="32" class="mw-file-element"></a></span>
+</td>
+<td><a href="/wiki/Sentret" title="Sentret">Sentret</a>
+</td>
+<td><a href="/wiki/Frisk" title="Frisk">Frisk</a>
+</td>
+<td>Pleasant Forest
+</td>
+<td>Available
+</td></tr>
+
+<tr style="background:#d1d1fa">
+<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/File:163_Mini_Sprite.png" class="mw-file-description"><img src="https://cdn.staticneo.com/w/pokemon/a/ab/163_Mini_Sprite.png" decoding="async" width="32" height="32" class="mw-file-element"></a></span>
+</td>
+<td><a href="/wiki/Hoothoot" title="Hoothoot">Hoothoot</a>
+</td>
+<td><a href="/wiki/Tinted_Lens" title="Tinted Lens">Tinted Lens</a>
+</td>
+<td>Windswept Sky
+</td>
+<td>Available
+</td></tr>
+
+<tr style="background:#d1d1fa">
+<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/File:165_Mini_Sprite.png" class="mw-file-description"><img src="https://cdn.staticneo.com/w/pokemon/0/0d/165_Mini_Sprite.png" decoding="async" width="32" height="32" class="mw-file-element"></a></span>
+</td>
+<td><a href="/wiki/Ledyba" title="Ledyba">Ledyba</a>
+</td>
+<td><a href="/wiki/Rattled" title="Rattled">Rattled</a>
+</td>
+<td>Windswept Sky
+</td>
+<td>Available
+</td></tr>
+
+<tr style="background:#d1d1fa">
+<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/File:167_Mini_Sprite.png" class="mw-file-description"><img src="https://cdn.staticneo.com/w/pokemon/2/26/167_Mini_Sprite.png" decoding="async" width="32" height="32" class="mw-file-element"></a></span>
+</td>
+<td><a href="/wiki/Spinarak" title="Spinarak">Spinarak</a>
+</td>
+<td><a href="/wiki/Sniper" title="Sniper">Sniper</a>
+</td>
+<td>Spooky Manor
+</td>
+<td>Available
+</td></tr>
+
+
+<tr style="background:#d1d1fa">
+<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/File:170_Mini_Sprite.png" class="mw-file-description"><img src="https://cdn.staticneo.com/w/pokemon/d/db/170_Mini_Sprite.png" decoding="async" width="32" height="32" class="mw-file-element"></a></span>
+</td>
+<td><a href="/wiki/Chinchou" title="Chinchou">Chinchou</a>
+</td>
+<td><a href="/wiki/Water_Absorb" title="Water Absorb">Water Absorb</a>
+</td>
+<td>Sparkling Sea
+</td>
+<td>Available
+</td></tr>
+
+
+<tr style="background:#d1d1fa">
+<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/File:173_Mini_Sprite.png" class="mw-file-description"><img src="https://cdn.staticneo.com/w/pokemon/0/04/173_Mini_Sprite.png" decoding="async" width="32" height="32" class="mw-file-element"></a></span>
+</td>
+<td><a href="/wiki/Cleffa" title="Cleffa">Cleffa</a>
+</td>
+<td><a href="/wiki/Friend_Guard" title="Friend Guard">Friend Guard</a>
+</td>
+<td>Icy Cave
+</td>
+<td>Available
+</td></tr>
+<tr style="background:#d1d1fa">
+<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/File:174_Mini_Sprite.png" class="mw-file-description"><img src="https://cdn.staticneo.com/w/pokemon/d/de/174_Mini_Sprite.png" decoding="async" width="32" height="32" class="mw-file-element"></a></span>
+</td>
+<td><a href="/wiki/Igglybuff" title="Igglybuff">Igglybuff</a>
+</td>
+<td><a href="/wiki/Friend_Guard" title="Friend Guard">Friend Guard</a>
+</td>
+<td>Pleasant Forest
+</td>
+<td>Available
+</td></tr>
+<tr style="background:#d1d1fa">
+<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/File:175_Mini_Sprite.png" class="mw-file-description"><img src="https://cdn.staticneo.com/w/pokemon/c/c0/175_Mini_Sprite.png" decoding="async" width="32" height="32" class="mw-file-element"></a></span>
+</td>
+<td><a href="/wiki/Togepi" title="Togepi">Togepi</a>
+</td>
+<td><a href="/wiki/Super_Luck" title="Super Luck">Super Luck</a>
+</td>
+<td>Dream Park
+</td>
+<td><span style="background:transparent none repeat scroll 0 0;border-bottom:1px dotted black; color:black;cursor:help;" title="Obtain 5000+ Dream Points">Available</span>
+</td></tr>
+
+<tr style="background:#d1d1fa">
+<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/File:177_Mini_Sprite.png" class="mw-file-description"><img src="https://cdn.staticneo.com/w/pokemon/0/03/177_Mini_Sprite.png" decoding="async" width="32" height="32" class="mw-file-element"></a></span>
+</td>
+<td><a href="/wiki/Natu" title="Natu">Natu</a>
+</td>
+<td><a href="/wiki/Magic_Bounce" title="Magic Bounce">Magic Bounce</a>
+</td>
+<td>Pleasant Forest
+</td>
+<td><span style="background:transparent none repeat scroll 0 0;border-bottom:1px dotted black; color:black;cursor:help;" title="Obtain 10000+ Dream Points">Available</span>
+</td></tr>
+
+<tr style="background:#d1d1fa">
+<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/File:179_Mini_Sprite.png" class="mw-file-description"><img src="https://cdn.staticneo.com/w/pokemon/3/3e/179_Mini_Sprite.png" decoding="async" width="32" height="32" class="mw-file-element"></a></span>
+</td>
+<td><a href="/wiki/Mareep" title="Mareep">Mareep</a>
+</td>
+<td><a href="/wiki/Plus" title="Plus">Plus</a>
+</td>
+<td>Pleasant Forest
+</td>
+<td>Available
+</td></tr>
+
+
+
+<tr style="background:#d1d1fa">
+<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/File:183_Mini_Sprite.png" class="mw-file-description"><img src="https://cdn.staticneo.com/w/pokemon/3/39/183_Mini_Sprite.png" decoding="async" width="32" height="32" class="mw-file-element"></a></span>
+</td>
+<td><a href="/wiki/Marill" title="Marill">Marill</a>
+</td>
+<td><a href="/wiki/Sap_Sipper" title="Sap Sipper">Sap Sipper</a>
+</td>
+<td>Pleasant Forest
+</td>
+<td><span style="background:transparent none repeat scroll 0 0;border-bottom:1px dotted black; color:black;cursor:help;" title="Obtain 5000+ Dream Points">Available</span>
+</td></tr>
+
+<tr style="background:#d1d1fa">
+<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/File:185_Mini_Sprite.png" class="mw-file-description"><img src="https://cdn.staticneo.com/w/pokemon/c/c2/185_Mini_Sprite.png" decoding="async" width="32" height="32" class="mw-file-element"></a></span>
+</td>
+<td><a href="/wiki/Sudowoodo" title="Sudowoodo">Sudowoodo</a>
+</td>
+<td><a href="/wiki/Rattled" title="Rattled">Rattled</a>
+</td>
+<td>Pleasant Forest
+</td>
+<td><span style="background:transparent none repeat scroll 0 0;border-bottom:1px dotted black; color:black;cursor:help;" title="Obtain 5000+ Dream Points">Available</span>
+</td></tr>
+
+<tr style="background:#d1d1fa">
+<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/File:187_Mini_Sprite.png" class="mw-file-description"><img src="https://cdn.staticneo.com/w/pokemon/8/85/187_Mini_Sprite.png" decoding="async" width="32" height="32" class="mw-file-element"></a></span>
+</td>
+<td><a href="/wiki/Hoppip" title="Hoppip">Hoppip</a>
+</td>
+<td><a href="/wiki/Infiltrator" title="Infiltrator">Infiltrator</a>
+</td>
+<td>Pleasant Forest<br>Windswept Sky
+</td>
+<td>Available
+</td></tr>
+
+
+<tr style="background:#d1d1fa">
+<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/File:190_Mini_Sprite.png" class="mw-file-description"><img src="https://cdn.staticneo.com/w/pokemon/5/59/190_Mini_Sprite.png" decoding="async" width="32" height="32" class="mw-file-element"></a></span>
+</td>
+<td><a href="/wiki/Aipom" title="Aipom">Aipom</a>
+</td>
+<td><a href="/wiki/Skill_Link" title="Skill Link">Skill Link</a>
+</td>
+<td>Dream Park
+</td>
+<td><span style="background:transparent none repeat scroll 0 0;border-bottom:1px dotted black; color:black;cursor:help;" title="Obtain 5000+ Dream Points">Available</span>
+</td></tr>
+<tr style="background:#d1d1fa">
+<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/File:191_Mini_Sprite.png" class="mw-file-description"><img src="https://cdn.staticneo.com/w/pokemon/7/7a/191_Mini_Sprite.png" decoding="async" width="32" height="32" class="mw-file-element"></a></span>
+</td>
+<td><a href="/wiki/Sunkern" title="Sunkern">Sunkern</a>
+</td>
+<td><a href="/wiki/Early_Bird" title="Early Bird">Early Bird</a>
+</td>
+<td>Pleasant Forest
+</td>
+<td>Available
+</td></tr>
+
+<tr style="background:#d1d1fa">
+<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/File:193_Mini_Sprite.png" class="mw-file-description"><img src="https://cdn.staticneo.com/w/pokemon/e/e2/193_Mini_Sprite.png" decoding="async" width="32" height="32" class="mw-file-element"></a></span>
+</td>
+<td><a href="/wiki/Yanma" title="Yanma">Yanma</a>
+</td>
+<td><a href="/wiki/Frisk" title="Frisk">Frisk</a>
+</td>
+<td>Windswept Sky
+</td>
+<td>Available
+</td></tr>
+<tr style="background:#d1d1fa">
+<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/File:194_Mini_Sprite.png" class="mw-file-description"><img src="https://cdn.staticneo.com/w/pokemon/2/22/194_Mini_Sprite.png" decoding="async" width="32" height="32" class="mw-file-element"></a></span>
+</td>
+<td><a href="/wiki/Wooper" title="Wooper">Wooper</a>
+</td>
+<td><a href="/wiki/Unaware" title="Unaware">Unaware</a>
+</td>
+<td>Sparkling Sea
+</td>
+<td>Available
+</td></tr>
+
+
+
+<tr style="background:#d1d1fa">
+<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/File:198_Mini_Sprite.png" class="mw-file-description"><img src="https://cdn.staticneo.com/w/pokemon/c/c5/198_Mini_Sprite.png" decoding="async" width="32" height="32" class="mw-file-element"></a></span>
+</td>
+<td><a href="/wiki/Murkrow" title="Murkrow">Murkrow</a>
+</td>
+<td><a href="/wiki/Prankster" title="Prankster">Prankster</a>
+</td>
+<td>Windswept Sky
+</td>
+<td>Available
+</td></tr>
+
+<tr style="background:#d1d1fa">
+<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/File:200_Mini_Sprite.png" class="mw-file-description"><img src="https://cdn.staticneo.com/w/pokemon/f/ff/200_Mini_Sprite.png" decoding="async" width="32" height="32" class="mw-file-element"></a></span>
+</td>
+<td><a href="/wiki/Misdreavus" title="Misdreavus">Misdreavus</a>
+</td>
+<td><a href="/wiki/Levitate" title="Levitate">Levitate</a>
+</td>
+<td>Spooky Manor
+</td>
+<td>Available
+</td></tr>
+
+<tr style="background:#d1d1fa">
+<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/File:202_Mini_Sprite.png" class="mw-file-description"><img src="https://cdn.staticneo.com/w/pokemon/b/ba/202_Mini_Sprite.png" decoding="async" width="32" height="32" class="mw-file-element"></a></span>
+</td>
+<td><a href="/wiki/Wobbuffet" title="Wobbuffet">Wobbuffet</a>
+</td>
+<td><a href="/wiki/Telepathy" title="Telepathy">Telepathy</a>
+</td>
+<td>Spooky Manor
+</td>
+<td>Available
+</td></tr>
+<tr style="background:#d1d1fa">
+<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/File:203_Mini_Sprite.png" class="mw-file-description"><img src="https://cdn.staticneo.com/w/pokemon/8/88/203_Mini_Sprite.png" decoding="async" width="32" height="32" class="mw-file-element"></a></span>
+</td>
+<td><a href="/wiki/Girafarig" title="Girafarig">Girafarig</a>
+</td>
+<td><a href="/wiki/Sap_Sipper" title="Sap Sipper">Sap Sipper</a>
+</td>
+<td>Pleasant Forest
+</td>
+<td><span style="background:transparent none repeat scroll 0 0;border-bottom:1px dotted black; color:black;cursor:help;" title="Obtain 5000+ Dream Points">Available</span>
+</td></tr>
+<tr style="background:#d1d1fa">
+<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/File:204_Mini_Sprite.png" class="mw-file-description"><img src="https://cdn.staticneo.com/w/pokemon/b/b6/204_Mini_Sprite.png" decoding="async" width="32" height="32" class="mw-file-element"></a></span>
+</td>
+<td><a href="/wiki/Pineco" title="Pineco">Pineco</a>
+</td>
+<td><a href="/wiki/Overcoat" title="Overcoat">Overcoat</a>
+</td>
+<td>Dream Park
+</td>
+<td>Available
+</td></tr>
+
+<tr style="background:#d1d1fa">
+<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/File:206_Mini_Sprite.png" class="mw-file-description"><img src="https://cdn.staticneo.com/w/pokemon/7/73/206_Mini_Sprite.png" decoding="async" width="32" height="32" class="mw-file-element"></a></span>
+</td>
+<td><a href="/wiki/Dunsparce" title="Dunsparce">Dunsparce</a>
+</td>
+<td><a href="/wiki/Rattled" title="Rattled">Rattled</a>
+</td>
+<td>Icy Cave
+</td>
+<td><span style="background:transparent none repeat scroll 0 0;border-bottom:1px dotted black; color:black;cursor:help;" title="Obtain 5000+ Dream Points">Available</span>
+</td></tr>
+<tr style="background:#d1d1fa">
+<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/File:207_Mini_Sprite.png" class="mw-file-description"><img src="https://cdn.staticneo.com/w/pokemon/d/d0/207_Mini_Sprite.png" decoding="async" width="32" height="32" class="mw-file-element"></a></span>
+</td>
+<td><a href="/wiki/Gligar" title="Gligar">Gligar</a>
+</td>
+<td><a href="/wiki/Immunity" title="Immunity">Immunity</a>
+</td>
+<td>Windswept Sky
+</td>
+<td>Available
+</td></tr>
+
+<tr style="background:#d1d1fa">
+<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/File:209_Mini_Sprite.png" class="mw-file-description"><img src="https://cdn.staticneo.com/w/pokemon/8/87/209_Mini_Sprite.png" decoding="async" width="32" height="32" class="mw-file-element"></a></span>
+</td>
+<td><a href="/wiki/Snubbull" title="Snubbull">Snubbull</a>
+</td>
+<td><a href="/wiki/Rattled" title="Rattled">Rattled</a>
+</td>
+<td>Spooky Manor
+</td>
+<td><span style="background:transparent none repeat scroll 0 0;border-bottom:1px dotted black; color:black;cursor:help;" title="Obtain 5000+ Dream Points">Available</span>
+</td></tr>
+
+<tr style="background:#d1d1fa">
+<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/File:211_Mini_Sprite.png" class="mw-file-description"><img src="https://cdn.staticneo.com/w/pokemon/1/18/211_Mini_Sprite.png" decoding="async" width="32" height="32" class="mw-file-element"></a></span>
+</td>
+<td><a href="/wiki/Qwilfish" title="Qwilfish">Qwilfish</a>
+</td>
+<td><a href="/wiki/Intimidate" title="Intimidate">Intimidate</a>
+</td>
+<td>Sparkling Sea
+</td>
+<td>Available
+</td></tr>
+
+<tr style="background:#d1d1fa">
+<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/File:213_Mini_Sprite.png" class="mw-file-description"><img src="https://cdn.staticneo.com/w/pokemon/3/38/213_Mini_Sprite.png" decoding="async" width="32" height="32" class="mw-file-element"></a></span>
+</td>
+<td><a href="/wiki/Shuckle" title="Shuckle">Shuckle</a>
+</td>
+<td><a href="/wiki/Contrary" title="Contrary">Contrary</a>
+</td>
+<td>Icy Cave
+</td>
+<td>Available
+</td></tr>
+<tr style="background:#d1d1fa">
+<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/File:214_Mini_Sprite.png" class="mw-file-description"><img src="https://cdn.staticneo.com/w/pokemon/1/1d/214_Mini_Sprite.png" decoding="async" width="40" height="40" class="mw-file-element"></a></span>
+</td>
+<td><a href="/wiki/Heracross" title="Heracross">Heracross</a>
+</td>
+<td><a href="/wiki/Moxie" title="Moxie">Moxie</a>
+</td>
+<td>Dream Park
+</td>
+<td><span style="background:transparent none repeat scroll 0 0;border-bottom:1px dotted black; color:black;cursor:help;" title="Obtain 10000+ Dream Points">Available</span>
+</td></tr>
+<tr style="background:#d1d1fa">
+<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/File:215_Mini_Sprite.png" class="mw-file-description"><img src="https://cdn.staticneo.com/w/pokemon/3/37/215_Mini_Sprite.png" decoding="async" width="32" height="32" class="mw-file-element"></a></span>
+</td>
+<td><a href="/wiki/Sneasel" title="Sneasel">Sneasel</a>
+</td>
+<td><a href="/wiki/Pickpocket" title="Pickpocket">Pickpocket</a>
+</td>
+<td>Icy Cave
+</td>
+<td><span style="background:transparent none repeat scroll 0 0;border-bottom:1px dotted black; color:black;cursor:help;" title="Obtain 5000+ Dream Points">Available</span>
+</td></tr>
+<tr style="background:#d1d1fa">
+<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/File:216_Mini_Sprite.png" class="mw-file-description"><img src="https://cdn.staticneo.com/w/pokemon/d/da/216_Mini_Sprite.png" decoding="async" width="32" height="32" class="mw-file-element"></a></span>
+</td>
+<td><a href="/wiki/Teddiursa" title="Teddiursa">Teddiursa</a>
+</td>
+<td><a href="/wiki/Honey_Gather" title="Honey Gather">Honey Gather</a>
+</td>
+<td>Rugged Mountain
+</td>
+<td><span style="background:transparent none repeat scroll 0 0;border-bottom:1px dotted black; color:black;cursor:help;" title="Obtain 5000+ Dream Points">Available</span>
+</td></tr>
+
+<tr style="background:#d1d1fa">
+<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/File:218_Mini_Sprite.png" class="mw-file-description"><img src="https://cdn.staticneo.com/w/pokemon/0/07/218_Mini_Sprite.png" decoding="async" width="32" height="32" class="mw-file-element"></a></span>
+</td>
+<td><a href="/wiki/Slugma" title="Slugma">Slugma</a>
+</td>
+<td><a href="/wiki/Weak_Armor" title="Weak Armor">Weak Armor</a>
+</td>
+<td>Rugged Mountain
+</td>
+<td>Available
+</td></tr>
+
+<tr style="background:#d1d1fa">
+<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/File:220_Mini_Sprite.png" class="mw-file-description"><img src="https://cdn.staticneo.com/w/pokemon/7/72/220_Mini_Sprite.png" decoding="async" width="32" height="32" class="mw-file-element"></a></span>
+</td>
+<td><a href="/wiki/Swinub" title="Swinub">Swinub</a>
+</td>
+<td><a href="/wiki/Thick_Fat" title="Thick Fat">Thick Fat</a>
+</td>
+<td>Icy Cave
+</td>
+<td>Available
+</td></tr>
+
+<tr style="background:#d1d1fa">
+<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/File:222_Mini_Sprite.png" class="mw-file-description"><img src="https://cdn.staticneo.com/w/pokemon/d/d0/222_Mini_Sprite.png" decoding="async" width="32" height="32" class="mw-file-element"></a></span>
+</td>
+<td><a href="/wiki/Corsola" title="Corsola">Corsola</a>
+</td>
+<td><a href="/wiki/Regenerator" title="Regenerator">Regenerator</a>
+</td>
+<td>Sparkling Sea
+</td>
+<td>Available
+</td></tr>
+<tr style="background:#d1d1fa">
+<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/File:223_Mini_Sprite.png" class="mw-file-description"><img src="https://cdn.staticneo.com/w/pokemon/2/29/223_Mini_Sprite.png" decoding="async" width="32" height="32" class="mw-file-element"></a></span>
+</td>
+<td><a href="/wiki/Remoraid" title="Remoraid">Remoraid</a>
+</td>
+<td><a href="/wiki/Moody" title="Moody">Moody</a>
+</td>
+<td>Sparkling Sea
+</td>
+<td>Available
+</td></tr>
+
+<tr style="background:#d1d1fa">
+<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/File:225_Mini_Sprite.png" class="mw-file-description"><img src="https://cdn.staticneo.com/w/pokemon/1/1e/225_Mini_Sprite.png" decoding="async" width="32" height="32" class="mw-file-element"></a></span>
+</td>
+<td><a href="/wiki/Delibird" title="Delibird">Delibird</a>
+</td>
+<td><a href="/wiki/Insomnia" title="Insomnia">Insomnia</a>
+</td>
+<td>Windswept Sky
+</td>
+<td>Available
+</td></tr>
+<tr style="background:#d1d1fa">
+<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/File:226_Mini_Sprite.png" class="mw-file-description"><img src="https://cdn.staticneo.com/w/pokemon/0/01/226_Mini_Sprite.png" decoding="async" width="32" height="32" class="mw-file-element"></a></span>
+</td>
+<td><a href="/wiki/Mantine" title="Mantine">Mantine</a>
+</td>
+<td><a href="/wiki/Water_Veil" title="Water Veil">Water Veil</a>
+</td>
+<td>Sparkling Sea
+</td>
+<td>Available
+</td></tr>
+<tr style="background:#d1d1fa">
+<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/File:227_Mini_Sprite.png" class="mw-file-description"><img src="https://cdn.staticneo.com/w/pokemon/d/dd/227_Mini_Sprite.png" decoding="async" width="32" height="32" class="mw-file-element"></a></span>
+</td>
+<td><a href="/wiki/Skarmory" title="Skarmory">Skarmory</a>
+</td>
+<td><a href="/wiki/Weak_Armor" title="Weak Armor">Weak Armor</a>
+</td>
+<td>Windswept Sky
+</td>
+<td><span style="background:transparent none repeat scroll 0 0;border-bottom:1px dotted black; color:black;cursor:help;" title="Obtain 5000+ Dream Points">Available</span>
+</td></tr>
+<tr style="background:#d1d1fa">
+<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/File:228_Mini_Sprite.png" class="mw-file-description"><img src="https://cdn.staticneo.com/w/pokemon/a/a8/228_Mini_Sprite.png" decoding="async" width="32" height="32" class="mw-file-element"></a></span>
+</td>
+<td><a href="/wiki/Houndour" title="Houndour">Houndour</a>
+</td>
+<td><a href="/wiki/Unnerve" title="Unnerve">Unnerve</a>
+</td>
+<td>Spooky Manor
+</td>
+<td>Available
+</td></tr>
+
+
+<tr style="background:#d1d1fa">
+<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/File:231_Mini_Sprite.png" class="mw-file-description"><img src="https://cdn.staticneo.com/w/pokemon/b/bc/231_Mini_Sprite.png" decoding="async" width="32" height="32" class="mw-file-element"></a></span>
+</td>
+<td><a href="/wiki/Phanpy" title="Phanpy">Phanpy</a>
+</td>
+<td><a href="/wiki/Sand_Veil" title="Sand Veil">Sand Veil</a>
+</td>
+<td>Rugged Mountain
+</td>
+<td>Available
+</td></tr>
+
+
+<tr style="background:#d1d1fa">
+<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/File:234_Mini_Sprite.png" class="mw-file-description"><img src="https://cdn.staticneo.com/w/pokemon/5/51/234_Mini_Sprite.png" decoding="async" width="32" height="32" class="mw-file-element"></a></span>
+</td>
+<td><a href="/wiki/Stantler" title="Stantler">Stantler</a>
+</td>
+<td><a href="/wiki/Sap_Sipper" title="Sap Sipper">Sap Sipper</a>
+</td>
+<td>Pleasant Forest
+</td>
+<td>Available
+</td></tr>
+<tr style="background:#d1d1fa">
+<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/File:235_Mini_Sprite.png" class="mw-file-description"><img src="https://cdn.staticneo.com/w/pokemon/2/23/235_Mini_Sprite.png" decoding="async" width="32" height="32" class="mw-file-element"></a></span>
+</td>
+<td><a href="/wiki/Smeargle" title="Smeargle">Smeargle</a>
+</td>
+<td><a href="/wiki/Moody" title="Moody">Moody</a>
+</td>
+<td>Pokémon Café Forest (Event Zone)<br>Spooky Manor
+</td>
+<td>Available<br><br><span style="background:transparent none repeat scroll 0 0;border-bottom:1px dotted black; color:black;cursor:help;" title="Obtain 5000+ Dream Points">Available</span>
+</td></tr>
+<tr style="background:#d1d1fa">
+<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/File:236_Mini_Sprite.png" class="mw-file-description"><img src="https://cdn.staticneo.com/w/pokemon/c/c5/236_Mini_Sprite.png" decoding="async" width="32" height="32" class="mw-file-element"></a></span>
+</td>
+<td><a href="/wiki/Tyrogue" title="Tyrogue">Tyrogue</a>
+</td>
+<td><a href="/wiki/Vital_Spirit" title="Vital Spirit">Vital Spirit</a>
+</td>
+<td>Rugged Mountain
+</td>
+<td><span style="background:transparent none repeat scroll 0 0;border-bottom:1px dotted black; color:black;cursor:help;" title="Obtain 10000+ Dream Points">Available</span>
+</td></tr>
+
+<tr style="background:#d1d1fa">
+<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/File:238_Mini_Sprite.png" class="mw-file-description"><img src="https://cdn.staticneo.com/w/pokemon/b/b3/238_Mini_Sprite.png" decoding="async" width="32" height="32" class="mw-file-element"></a></span>
+</td>
+<td><a href="/wiki/Smoochum" title="Smoochum">Smoochum</a>
+</td>
+<td><a href="/wiki/Hydration" title="Hydration">Hydration</a>
+</td>
+<td>Spooky Manor
+</td>
+<td>Available
+</td></tr>
+<tr style="background:#d1d1fa">
+<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/File:239_Mini_Sprite.png" class="mw-file-description"><img src="https://cdn.staticneo.com/w/pokemon/5/5f/239_Mini_Sprite.png" decoding="async" width="32" height="32" class="mw-file-element"></a></span>
+</td>
+<td><a href="/wiki/Elekid" title="Elekid">Elekid</a>
+</td>
+<td><a href="/wiki/Vital_Spirit" title="Vital Spirit">Vital Spirit</a>
+</td>
+<td>Pleasant Forest
+</td>
+<td><span style="background:transparent none repeat scroll 0 0;border-bottom:1px dotted black; color:black;cursor:help;" title="Obtain 10000+ Dream Points">Available</span>
+</td></tr>
+<tr style="background:#d1d1fa">
+<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/File:240_Mini_Sprite.png" class="mw-file-description"><img src="https://cdn.staticneo.com/w/pokemon/1/19/240_Mini_Sprite.png" decoding="async" width="32" height="32" class="mw-file-element"></a></span>
+</td>
+<td><a href="/wiki/Magby" title="Magby">Magby</a>
+</td>
+<td><a href="/wiki/Vital_Spirit" title="Vital Spirit">Vital Spirit</a>
+</td>
+<td>Rugged Mountain
+</td>
+<td><span style="background:transparent none repeat scroll 0 0;border-bottom:1px dotted black; color:black;cursor:help;" title="Obtain 5000+ Dream Points">Available</span>
+</td></tr>
+<tr style="background:#d1d1fa">
+<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/File:241_Mini_Sprite.png" class="mw-file-description"><img src="https://cdn.staticneo.com/w/pokemon/8/8b/241_Mini_Sprite.png" decoding="async" width="32" height="32" class="mw-file-element"></a></span>
+</td>
+<td><a href="/wiki/Miltank" title="Miltank">Miltank</a>
+</td>
+<td><a href="/wiki/Sap_Sipper" title="Sap Sipper">Sap Sipper</a>
+</td>
+<td>Pleasant Forest
+</td>
+<td><span style="background:transparent none repeat scroll 0 0;border-bottom:1px dotted black; color:black;cursor:help;" title="Obtain 5000+ Dream Points">Available</span>
+</td></tr>
+
+
+
+
+<tr style="background:#d1d1fa">
+<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/File:246_Mini_Sprite.png" class="mw-file-description"><img src="https://cdn.staticneo.com/w/pokemon/6/62/246_Mini_Sprite.png" decoding="async" width="40" height="40" class="mw-file-element"></a></span>
+</td>
+<td><a href="/wiki/Larvitar" title="Larvitar">Larvitar</a>
+</td>
+<td><a href="/wiki/Sand_Veil" title="Sand Veil">Sand Veil</a>
+</td>
+<td>Rugged Mountain
+</td>
+<td>Available
+</td></tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<tr style="background:#d1d1fa">
+<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/File:261_Mini_Sprite.png" class="mw-file-description"><img src="https://cdn.staticneo.com/w/pokemon/9/90/261_Mini_Sprite.png" decoding="async" width="32" height="32" class="mw-file-element"></a></span>
+</td>
+<td><a href="/wiki/Poochyena" title="Poochyena">Poochyena</a>
+</td>
+<td><a href="/wiki/Rattled" title="Rattled">Rattled</a>
+</td>
+<td>Pleasant Forest
+</td>
+<td>Available
+</td></tr>
+
+<tr style="background:#d1d1fa">
+<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/File:263_Mini_Sprite.png" class="mw-file-description"><img src="https://cdn.staticneo.com/w/pokemon/e/ef/263_Mini_Sprite.png" decoding="async" width="32" height="32" class="mw-file-element"></a></span>
+</td>
+<td><a href="/wiki/Zigzagoon" title="Zigzagoon">Zigzagoon</a>
+</td>
+<td><a href="/wiki/Quick_Feet" title="Quick Feet">Quick Feet</a>
+</td>
+<td>Pleasant Forest
+</td>
+<td><span style="background:transparent none repeat scroll 0 0;border-bottom:1px dotted black; color:black;cursor:help;" title="Obtain 5000+ Dream Points">Available</span>
+</td></tr>
+
+<tr>
+<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/File:265_Mini_Sprite.png" class="mw-file-description"><img src="https://cdn.staticneo.com/w/pokemon/5/5a/265_Mini_Sprite.png" decoding="async" width="32" height="32" class="mw-file-element"></a></span>
+</td>
+<td><a href="/wiki/Wurmple" title="Wurmple">Wurmple</a>
+</td>
+<td><a href="/wiki/Run_Away" title="Run Away">Run Away</a>
+</td>
+<td>Dream Park
+</td>
+<td>Available
+</td></tr>
+
+
+<tr style="background:#d1d1fa">
+<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/File:270_Mini_Sprite.png" class="mw-file-description"><img src="https://cdn.staticneo.com/w/pokemon/8/8d/270_Mini_Sprite.png" decoding="async" width="32" height="32" class="mw-file-element"></a></span>
+</td>
+<td><a href="/wiki/Lotad" title="Lotad">Lotad</a>
+</td>
+<td><a href="/wiki/Own_Tempo" title="Own Tempo">Own Tempo</a>
+</td>
+<td>Pleasant Forest
+</td>
+<td>Available
+</td></tr>
+
+
+<tr style="background:#d1d1fa">
+<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/File:273_Mini_Sprite.png" class="mw-file-description"><img src="https://cdn.staticneo.com/w/pokemon/2/2d/273_Mini_Sprite.png" decoding="async" width="32" height="32" class="mw-file-element"></a></span>
+</td>
+<td><a href="/wiki/Seedot" title="Seedot">Seedot</a>
+</td>
+<td><a href="/wiki/Pickpocket" title="Pickpocket">Pickpocket</a>
+</td>
+<td>Dream Park
+</td>
+<td>Available
+</td></tr>
+
+
+<tr style="background:#d1d1fa">
+<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/File:276_Mini_Sprite.png" class="mw-file-description"><img src="https://cdn.staticneo.com/w/pokemon/c/c2/276_Mini_Sprite.png" decoding="async" width="32" height="32" class="mw-file-element"></a></span>
+</td>
+<td><a href="/wiki/Taillow" title="Taillow">Taillow</a>
+</td>
+<td><a href="/wiki/Scrappy" title="Scrappy">Scrappy</a>
+</td>
+<td>Pleasant Forest<br>Windswept Sky
+</td>
+<td>Available
+</td></tr>
+
+<tr style="background:#d1d1fa">
+<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/File:278_Mini_Sprite.png" class="mw-file-description"><img src="https://cdn.staticneo.com/w/pokemon/5/5a/278_Mini_Sprite.png" decoding="async" width="32" height="32" class="mw-file-element"></a></span>
+</td>
+<td><a href="/wiki/Wingull" title="Wingull">Wingull</a>
+</td>
+<td><a href="/wiki/Rain_Dish" title="Rain Dish">Rain Dish</a>
+</td>
+<td>Windswept Sky
+</td>
+<td>Available
+</td></tr>
+
+<tr style="background:#d1d1fa">
+<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/File:280_Mini_Sprite.png" class="mw-file-description"><img src="https://cdn.staticneo.com/w/pokemon/b/bc/280_Mini_Sprite.png" decoding="async" width="32" height="32" class="mw-file-element"></a></span>
+</td>
+<td><a href="/wiki/Ralts" title="Ralts">Ralts</a>
+</td>
+<td><a href="/wiki/Telepathy" title="Telepathy">Telepathy</a>
+</td>
+<td>Spooky Manor
+</td>
+<td><span style="background:transparent none repeat scroll 0 0;border-bottom:1px dotted black; color:black;cursor:help;" title="Obtain 10000+ Dream Points">Available</span>
+</td></tr>
+
+
+<tr style="background:#d1d1fa">
+<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/File:283_Mini_Sprite.png" class="mw-file-description"><img src="https://cdn.staticneo.com/w/pokemon/d/d4/283_Mini_Sprite.png" decoding="async" width="32" height="32" class="mw-file-element"></a></span>
+</td>
+<td><a href="/wiki/Surskit" title="Surskit">Surskit</a>
+</td>
+<td><a href="/wiki/Rain_Dish" title="Rain Dish">Rain Dish</a>
+</td>
+<td>Pleasant Forest
+</td>
+<td>Available
+</td></tr>
+
+<tr style="background:#d1d1fa">
+<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/File:285_Mini_Sprite.png" class="mw-file-description"><img src="https://cdn.staticneo.com/w/pokemon/2/22/285_Mini_Sprite.png" decoding="async" width="32" height="32" class="mw-file-element"></a></span>
+</td>
+<td><a href="/wiki/Shroomish" title="Shroomish">Shroomish</a>
+</td>
+<td><a href="/wiki/Quick_Feet" title="Quick Feet">Quick Feet</a>
+</td>
+<td>Dream Park
+</td>
+<td>Available
+</td></tr>
+
+<tr style="background:#d1d1fa">
+<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/File:287_Mini_Sprite.png" class="mw-file-description"><img src="https://cdn.staticneo.com/w/pokemon/a/a3/287_Mini_Sprite.png" decoding="async" width="32" height="32" class="mw-file-element"></a></span>
+</td>
+<td><a href="/wiki/Slakoth" title="Slakoth">Slakoth</a>
+</td>
+<td><a href="/wiki/Truant" title="Truant">Truant</a>
+</td>
+<td>Dream Park
+</td>
+<td>Available
+</td></tr>
+<tr style="background:#d1d1fa">
+<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/File:290_Mini_Sprite.png" class="mw-file-description"><img src="https://cdn.staticneo.com/w/pokemon/b/bd/290_Mini_Sprite.png" decoding="async" width="32" height="32" class="mw-file-element"></a></span>
+</td>
+<td><a href="/wiki/Nincada" title="Nincada">Nincada</a>
+</td>
+<td><a href="/wiki/Run_Away" title="Run Away">Run Away</a>
+</td>
+<td>Dream Park
+</td>
+<td>Available
+</td></tr>
+
+<tr style="background:#d1d1fa">
+<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/File:293_Mini_Sprite.png" class="mw-file-description"><img src="https://cdn.staticneo.com/w/pokemon/2/22/293_Mini_Sprite.png" decoding="async" width="32" height="32" class="mw-file-element"></a></span>
+</td>
+<td><a href="/wiki/Whismur" title="Whismur">Whismur</a>
+</td>
+<td><a href="/wiki/Rattled" title="Rattled">Rattled</a>
+</td>
+<td>Icy Cave
+</td>
+<td>Available
+</td></tr>
+
+
+<tr style="background:#d1d1fa">
+<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/File:296_Mini_Sprite.png" class="mw-file-description"><img src="https://cdn.staticneo.com/w/pokemon/6/65/296_Mini_Sprite.png" decoding="async" width="32" height="32" class="mw-file-element"></a></span>
+</td>
+<td><a href="/wiki/Makuhita" title="Makuhita">Makuhita</a>
+</td>
+<td><a href="/wiki/Sheer_Force" title="Sheer Force">Sheer Force</a>
+</td>
+<td>Rugged Mountain
+</td>
+<td><span style="background:transparent none repeat scroll 0 0;border-bottom:1px dotted black; color:black;cursor:help;" title="Obtain 5000+ Dream Points">Available</span>
+</td></tr>
+
+
+<tr style="background:#d1d1fa">
+<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/File:299_Mini_Sprite.png" class="mw-file-description"><img src="https://cdn.staticneo.com/w/pokemon/4/47/299_Mini_Sprite.png" decoding="async" width="32" height="32" class="mw-file-element"></a></span>
+</td>
+<td><a href="/wiki/Nosepass" title="Nosepass">Nosepass</a>
+</td>
+<td><a href="/wiki/Sand_Force" title="Sand Force">Sand Force</a>
+</td>
+<td>Icy Cave
+</td>
+<td>Available
+</td></tr>
+<tr style="background:#d1d1fa">
+<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/File:300_Mini_Sprite.png" class="mw-file-description"><img src="https://cdn.staticneo.com/w/pokemon/d/dc/300_Mini_Sprite.png" decoding="async" width="32" height="32" class="mw-file-element"></a></span>
+</td>
+<td><a href="/wiki/Skitty" title="Skitty">Skitty</a>
+</td>
+<td><a href="/wiki/Wonder_Skin" title="Wonder Skin">Wonder Skin</a>
+</td>
+<td>Pleasant Forest
+</td>
+<td><span style="background:transparent none repeat scroll 0 0;border-bottom:1px dotted black; color:black;cursor:help;" title="Obtain 10000+ Dream Points">Available</span>
+</td></tr>
+
+<tr style="background:#d1d1fa">
+<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/File:302_Mini_Sprite.png" class="mw-file-description"><img src="https://cdn.staticneo.com/w/pokemon/7/70/302_Mini_Sprite.png" decoding="async" width="40" height="40" class="mw-file-element"></a></span>
+</td>
+<td><a href="/wiki/Sableye" title="Sableye">Sableye</a>
+</td>
+<td><a href="/wiki/Prankster" title="Prankster">Prankster</a>
+</td>
+<td>Spooky Manor
+</td>
+<td><span style="background:transparent none repeat scroll 0 0;border-bottom:1px dotted black; color:black;cursor:help;" title="Obtain 10000+ Dream Points">Available</span>
+</td></tr>
+<tr style="background:#d1d1fa">
+<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/File:303_Mini_Sprite.png" class="mw-file-description"><img src="https://cdn.staticneo.com/w/pokemon/f/f7/303_Mini_Sprite.png" decoding="async" width="40" height="40" class="mw-file-element"></a></span>
+</td>
+<td><a href="/wiki/Mawile" title="Mawile">Mawile</a>
+</td>
+<td><a href="/wiki/Sheer_Force" title="Sheer Force">Sheer Force</a>
+</td>
+<td>Spooky Manor
+</td>
+<td>Available
+</td></tr>
+<tr style="background:#d1d1fa">
+<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/File:304_Mini_Sprite.png" class="mw-file-description"><img src="https://cdn.staticneo.com/w/pokemon/8/80/304_Mini_Sprite.png" decoding="async" width="32" height="32" class="mw-file-element"></a></span>
+</td>
+<td><a href="/wiki/Aron" title="Aron">Aron</a>
+</td>
+<td><a href="/wiki/Heavy_Metal" title="Heavy Metal">Heavy Metal</a>
+</td>
+<td>Icy Cave
+</td>
+<td>Available
+</td></tr>
+
+
+<tr style="background:#d1d1fa">
+<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/File:307_Mini_Sprite.png" class="mw-file-description"><img src="https://cdn.staticneo.com/w/pokemon/e/ea/307_Mini_Sprite.png" decoding="async" width="32" height="32" class="mw-file-element"></a></span>
+</td>
+<td><a href="/wiki/Meditite" title="Meditite">Meditite</a>
+</td>
+<td><a href="/wiki/Telepathy" title="Telepathy">Telepathy</a>
+</td>
+<td>Spooky Manor
+</td>
+<td>Available
+</td></tr>
+
+<tr style="background:#d1d1fa">
+<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/File:309_Mini_Sprite.png" class="mw-file-description"><img src="https://cdn.staticneo.com/w/pokemon/0/07/309_Mini_Sprite.png" decoding="async" width="32" height="32" class="mw-file-element"></a></span>
+</td>
+<td><a href="/wiki/Electrike" title="Electrike">Electrike</a>
+</td>
+<td><a href="/wiki/Minus" title="Minus">Minus</a>
+</td>
+<td>Pleasant Forest
+</td>
+<td><span style="background:transparent none repeat scroll 0 0;border-bottom:1px dotted black; color:black;cursor:help;" title="Obtain 5000+ Dream Points">Available</span>
+</td></tr>
+
+<tr style="background:#d1d1fa">
+<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/File:311_Mini_Sprite.png" class="mw-file-description"><img src="https://cdn.staticneo.com/w/pokemon/f/f5/311_Mini_Sprite.png" decoding="async" width="32" height="32" class="mw-file-element"></a></span>
+</td>
+<td><a href="/wiki/Plusle" title="Plusle">Plusle</a>
+</td>
+<td><a href="/wiki/Plus" title="Plus">Plus</a>
+</td>
+<td>Dream Park
+</td>
+<td>Available
+</td></tr>
+<tr style="background:#d1d1fa">
+<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/File:312_Mini_Sprite.png" class="mw-file-description"><img src="https://cdn.staticneo.com/w/pokemon/e/e5/312_Mini_Sprite.png" decoding="async" width="32" height="32" class="mw-file-element"></a></span>
+</td>
+<td><a href="/wiki/Minun" title="Minun">Minun</a>
+</td>
+<td><a href="/wiki/Minus" title="Minus">Minus</a>
+</td>
+<td>Dream Park
+</td>
+<td>Available
+</td></tr>
+<tr style="background:#d1d1fa">
+<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/File:313_Mini_Sprite.png" class="mw-file-description"><img src="https://cdn.staticneo.com/w/pokemon/a/a0/313_Mini_Sprite.png" decoding="async" width="32" height="32" class="mw-file-element"></a></span>
+</td>
+<td><a href="/wiki/Volbeat" title="Volbeat">Volbeat</a>
+</td>
+<td><a href="/wiki/Prankster" title="Prankster">Prankster</a>
+</td>
+<td>Spooky Manor
+</td>
+<td><span style="background:transparent none repeat scroll 0 0;border-bottom:1px dotted black; color:black;cursor:help;" title="Obtain 5000+ Dream Points">Available</span>
+</td></tr>
+<tr style="background:#d1d1fa">
+<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/File:314_Mini_Sprite.png" class="mw-file-description"><img src="https://cdn.staticneo.com/w/pokemon/8/87/314_Mini_Sprite.png" decoding="async" width="32" height="32" class="mw-file-element"></a></span>
+</td>
+<td><a href="/wiki/Illumise" title="Illumise">Illumise</a>
+</td>
+<td><a href="/wiki/Prankster" title="Prankster">Prankster</a>
+</td>
+<td>Spooky Manor
+</td>
+<td><span style="background:transparent none repeat scroll 0 0;border-bottom:1px dotted black; color:black;cursor:help;" title="Obtain 5000+ Dream Points">Available</span>
+</td></tr>
+<tr style="background:#d1d1fa">
+<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/File:315_Mini_Sprite.png" class="mw-file-description"><img src="https://cdn.staticneo.com/w/pokemon/c/c9/315_Mini_Sprite.png" decoding="async" width="32" height="32" class="mw-file-element"></a></span>
+</td>
+<td><a href="/wiki/Roselia" title="Roselia">Roselia</a>
+</td>
+<td><a href="/wiki/Leaf_Guard" title="Leaf Guard">Leaf Guard</a>
+</td>
+<td>Dream Park
+</td>
+<td><span style="background:transparent none repeat scroll 0 0;border-bottom:1px dotted black; color:black;cursor:help;" title="Obtain 5000+ Dream Points">Available</span>
+</td></tr>
+<tr style="background:#d1d1fa">
+<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/File:316_Mini_Sprite.png" class="mw-file-description"><img src="https://cdn.staticneo.com/w/pokemon/6/6c/316_Mini_Sprite.png" decoding="async" width="32" height="32" class="mw-file-element"></a></span>
+</td>
+<td><a href="/wiki/Gulpin" title="Gulpin">Gulpin</a>
+</td>
+<td><a href="/wiki/Gluttony" title="Gluttony">Gluttony</a>
+</td>
+<td>Dream Park
+</td>
+<td>Available
+</td></tr>
+
+<tr style="background:#d1d1fa">
+<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/File:318_Mini_Sprite.png" class="mw-file-description"><img src="https://cdn.staticneo.com/w/pokemon/4/4e/318_Mini_Sprite.png" decoding="async" width="32" height="32" class="mw-file-element"></a></span>
+</td>
+<td><a href="/wiki/Carvanha" title="Carvanha">Carvanha</a>
+</td>
+<td><a href="/wiki/Speed_Boost" title="Speed Boost">Speed Boost</a>
+</td>
+<td>Sparkling Sea
+</td>
+<td>Available
+</td></tr>
+
+<tr style="background:#d1d1fa">
+<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/File:320_Mini_Sprite.png" class="mw-file-description"><img src="https://cdn.staticneo.com/w/pokemon/a/a0/320_Mini_Sprite.png" decoding="async" width="40" height="40" class="mw-file-element"></a></span>
+</td>
+<td><a href="/wiki/Wailmer" title="Wailmer">Wailmer</a>
+</td>
+<td><a href="/wiki/Pressure" title="Pressure">Pressure</a>
+</td>
+<td>Sparkling Sea
+</td>
+<td>Available
+</td></tr>
+
+<tr style="background:#d1d1fa">
+<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/File:322_Mini_Sprite.png" class="mw-file-description"><img src="https://cdn.staticneo.com/w/pokemon/9/9d/322_Mini_Sprite.png" decoding="async" width="32" height="32" class="mw-file-element"></a></span>
+</td>
+<td><a href="/wiki/Numel" title="Numel">Numel</a>
+</td>
+<td><a href="/wiki/Own_Tempo" title="Own Tempo">Own Tempo</a>
+</td>
+<td>Rugged Mountain
+</td>
+<td><span style="background:transparent none repeat scroll 0 0;border-bottom:1px dotted black; color:black;cursor:help;" title="Obtain 5000+ Dream Points">Available</span>
+</td></tr>
+
+<tr style="background:#d1d1fa">
+<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/File:324_Mini_Sprite.png" class="mw-file-description"><img src="https://cdn.staticneo.com/w/pokemon/7/78/324_Mini_Sprite.png" decoding="async" width="32" height="32" class="mw-file-element"></a></span>
+</td>
+<td><a href="/wiki/Torkoal" title="Torkoal">Torkoal</a>
+</td>
+<td><a href="/wiki/Shell_Armor" title="Shell Armor">Shell Armor</a>
+</td>
+<td>Rugged Mountain
+</td>
+<td>Available
+</td></tr>
+<tr style="background:#d1d1fa">
+<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/File:325_Mini_Sprite.png" class="mw-file-description"><img src="https://cdn.staticneo.com/w/pokemon/9/9c/325_Mini_Sprite.png" decoding="async" width="32" height="32" class="mw-file-element"></a></span>
+</td>
+<td><a href="/wiki/Spoink" title="Spoink">Spoink</a>
+</td>
+<td><a href="/wiki/Gluttony" title="Gluttony">Gluttony</a>
+</td>
+<td>Spooky Manor
+</td>
+<td>Available
+</td></tr>
+
+<tr style="background:#d1d1fa">
+<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/File:327_Mini_Sprite.png" class="mw-file-description"><img src="https://cdn.staticneo.com/w/pokemon/b/bf/327_Mini_Sprite.png" decoding="async" width="32" height="32" class="mw-file-element"></a></span>
+</td>
+<td><a href="/wiki/Spinda" title="Spinda">Spinda</a>
+</td>
+<td><a href="/wiki/Contrary" title="Contrary">Contrary</a>
+</td>
+<td>Rugged Mountain
+</td>
+<td><span style="background:transparent none repeat scroll 0 0;border-bottom:1px dotted black; color:black;cursor:help;" title="Obtain 5000+ Dream Points">Available</span>
+</td></tr>
+<tr style="background:#d1d1fa">
+<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/File:328_Mini_Sprite.png" class="mw-file-description"><img src="https://cdn.staticneo.com/w/pokemon/1/13/328_Mini_Sprite.png" decoding="async" width="40" height="40" class="mw-file-element"></a></span>
+</td>
+<td><a href="/wiki/Trapinch" title="Trapinch">Trapinch</a>
+</td>
+<td><a href="/wiki/Sheer_Force" title="Sheer Force">Sheer Force</a>
+</td>
+<td>Rugged Mountain
+</td>
+<td>Available
+</td></tr>
+<tr style="background:#d1d1fa">
+<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/File:331_Mini_Sprite.png" class="mw-file-description"><img src="https://cdn.staticneo.com/w/pokemon/9/95/331_Mini_Sprite.png" decoding="async" width="32" height="32" class="mw-file-element"></a></span>
+</td>
+<td><a href="/wiki/Cacnea" title="Cacnea">Cacnea</a>
+</td>
+<td><a href="/wiki/Water_Absorb" title="Water Absorb">Water Absorb</a>
+</td>
+<td>Rugged Mountain
+</td>
+<td>Available
+</td></tr>
+
+<tr style="background:#d1d1fa">
+<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/File:333_Mini_Sprite.png" class="mw-file-description"><img src="https://cdn.staticneo.com/w/pokemon/e/ef/333_Mini_Sprite.png" decoding="async" width="32" height="32" class="mw-file-element"></a></span>
+</td>
+<td><a href="/wiki/Swablu" title="Swablu">Swablu</a>
+</td>
+<td><a href="/wiki/Cloud_Nine" title="Cloud Nine">Cloud Nine</a>
+</td>
+<td>Windswept Sky
+</td>
+<td>Available
+</td></tr>
+
+<tr style="background:#d1d1fa">
+<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/File:335_Mini_Sprite.png" class="mw-file-description"><img src="https://cdn.staticneo.com/w/pokemon/a/af/335_Mini_Sprite.png" decoding="async" width="32" height="32" class="mw-file-element"></a></span>
+</td>
+<td><a href="/wiki/Zangoose" title="Zangoose">Zangoose</a>
+</td>
+<td><a href="/wiki/Toxic_Boost" title="Toxic Boost">Toxic Boost</a>
+</td>
+<td>Dream Park
+</td>
+<td><span style="background:transparent none repeat scroll 0 0;border-bottom:1px dotted black; color:black;cursor:help;" title="Black &amp; White Exclusive">Available</span>
+</td></tr>
+<tr style="background:#d1d1fa">
+<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/File:336_Mini_Sprite.png" class="mw-file-description"><img src="https://cdn.staticneo.com/w/pokemon/3/3b/336_Mini_Sprite.png" decoding="async" width="32" height="32" class="mw-file-element"></a></span>
+</td>
+<td><a href="/wiki/Seviper" title="Seviper">Seviper</a>
+</td>
+<td><a href="/wiki/Infiltrator" title="Infiltrator">Infiltrator</a>
+</td>
+<td>Dream Park
+</td>
+<td><span style="background:transparent none repeat scroll 0 0;border-bottom:1px dotted black; color:black;cursor:help;" title="Black &amp; White Exclusive">Available</span>
+</td></tr>
+<tr style="background:#d1d1fa">
+<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/File:337_Mini_Sprite.png" class="mw-file-description"><img src="https://cdn.staticneo.com/w/pokemon/d/d6/337_Mini_Sprite.png" decoding="async" width="32" height="32" class="mw-file-element"></a></span>
+</td>
+<td><a href="/wiki/Lunatone" title="Lunatone">Lunatone</a>
+</td>
+<td><a href="/wiki/Levitate" title="Levitate">Levitate</a>
+</td>
+<td>Icy Cave
+</td>
+<td>Available
+</td></tr>
+<tr style="background:#d1d1fa">
+<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/File:338_Mini_Sprite.png" class="mw-file-description"><img src="https://cdn.staticneo.com/w/pokemon/9/9a/338_Mini_Sprite.png" decoding="async" width="32" height="32" class="mw-file-element"></a></span>
+</td>
+<td><a href="/wiki/Solrock" title="Solrock">Solrock</a>
+</td>
+<td><a href="/wiki/Levitate" title="Levitate">Levitate</a>
+</td>
+<td>Icy Cave
+</td>
+<td>Available
+</td></tr>
+<tr style="background:#d1d1fa">
+<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/File:339_Mini_Sprite.png" class="mw-file-description"><img src="https://cdn.staticneo.com/w/pokemon/a/aa/339_Mini_Sprite.png" decoding="async" width="32" height="32" class="mw-file-element"></a></span>
+</td>
+<td><a href="/wiki/Barboach" title="Barboach">Barboach</a>
+</td>
+<td><a href="/wiki/Hydration" title="Hydration">Hydration</a>
+</td>
+<td>Sparkling Sea
+</td>
+<td>Available
+</td></tr>
+
+<tr style="background:#d1d1fa">
+<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/File:341_Mini_Sprite.png" class="mw-file-description"><img src="https://cdn.staticneo.com/w/pokemon/0/04/341_Mini_Sprite.png" decoding="async" width="32" height="32" class="mw-file-element"></a></span>
+</td>
+<td><a href="/wiki/Corphish" title="Corphish">Corphish</a>
+</td>
+<td><a href="/wiki/Adaptability" title="Adaptability">Adaptability</a>
+</td>
+<td>Sparkling Sea
+</td>
+<td><span style="background:transparent none repeat scroll 0 0;border-bottom:1px dotted black; color:black;cursor:help;" title="Obtain 5000+ Dream Points">Available</span>
+</td></tr>
+
+<tr style="background:#d1d1fa">
+<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/File:343_Mini_Sprite.png" class="mw-file-description"><img src="https://cdn.staticneo.com/w/pokemon/e/ed/343_Mini_Sprite.png" decoding="async" width="32" height="32" class="mw-file-element"></a></span>
+</td>
+<td><a href="/wiki/Baltoy" title="Baltoy">Baltoy</a>
+</td>
+<td><a href="/wiki/Levitate" title="Levitate">Levitate</a>
+</td>
+<td>Icy Cave
+</td>
+<td>Available
+</td></tr>
+
+<tr style="background:#d1d1fa">
+<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/File:345_Mini_Sprite.png" class="mw-file-description"><img src="https://cdn.staticneo.com/w/pokemon/3/34/345_Mini_Sprite.png" decoding="async" width="32" height="32" class="mw-file-element"></a></span>
+</td>
+<td><a href="/wiki/Lileep" title="Lileep">Lileep</a>
+</td>
+<td><a href="/wiki/Storm_Drain" title="Storm Drain">Storm Drain</a>
+</td>
+<td>Sparkling Sea
+</td>
+<td><span style="background:transparent none repeat scroll 0 0;border-bottom:1px dotted black; color:black;cursor:help;" title="Obtain 5000+ Dream Points">Available</span>
+</td></tr>
+
+<tr style="background:#d1d1fa">
+<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/File:347_Mini_Sprite.png" class="mw-file-description"><img src="https://cdn.staticneo.com/w/pokemon/d/d2/347_Mini_Sprite.png" decoding="async" width="32" height="32" class="mw-file-element"></a></span>
+</td>
+<td><a href="/wiki/Anorith" title="Anorith">Anorith</a>
+</td>
+<td><a href="/wiki/Swift_Swim" title="Swift Swim">Swift Swim</a>
+</td>
+<td>Sparkling Sea
+</td>
+<td><span style="background:transparent none repeat scroll 0 0;border-bottom:1px dotted black; color:black;cursor:help;" title="Obtain 5000+ Dream Points">Available</span>
+</td></tr>
+
+<tr style="background:#d1d1fa">
+<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/File:349_Mini_Sprite.png" class="mw-file-description"><img src="https://cdn.staticneo.com/w/pokemon/7/70/349_Mini_Sprite.png" decoding="async" width="32" height="32" class="mw-file-element"></a></span>
+</td>
+<td><a href="/wiki/Feebas" title="Feebas">Feebas</a>
+</td>
+<td><a href="/wiki/Adaptability" title="Adaptability">Adaptability</a>
+</td>
+<td>Sparkling Sea
+</td>
+<td><span style="background:transparent none repeat scroll 0 0;border-bottom:1px dotted black; color:black;cursor:help;" title="Obtain 5000+ Dream Points">Available</span>
+</td></tr>
+
+<tr style="background:#d1d1fa">
+<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/File:351_Mini_Sprite.png" class="mw-file-description"><img src="https://cdn.staticneo.com/w/pokemon/8/8e/351_Mini_Sprite.png" decoding="async" width="32" height="32" class="mw-file-element"></a></span>
+</td>
+<td><a href="/wiki/Castform" title="Castform">Castform</a>
+</td>
+<td><a href="/wiki/Forecast" title="Forecast">Forecast</a>
+</td>
+<td>Pleasant Forest
+</td>
+<td><span style="background:transparent none repeat scroll 0 0;border-bottom:1px dotted black; color:black;cursor:help;" title="Obtain 5000+ Dream Points">Available</span>
+</td></tr>
+<tr style="background:#d1d1fa">
+<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/File:352_Mini_Sprite.png" class="mw-file-description"><img src="https://cdn.staticneo.com/w/pokemon/f/fa/352_Mini_Sprite.png" decoding="async" width="32" height="32" class="mw-file-element"></a></span>
+</td>
+<td><a href="/wiki/Kecleon" title="Kecleon">Kecleon</a>
+</td>
+<td><a href="/wiki/Color_Change" title="Color Change">Color Change</a>
+</td>
+<td>Dream Park
+</td>
+<td><span style="background:transparent none repeat scroll 0 0;border-bottom:1px dotted black; color:black;cursor:help;" title="Black &amp; White Exclusive">Available</span>
+</td></tr>
+<tr style="background:#d1d1fa">
+<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/File:353_Mini_Sprite.png" class="mw-file-description"><img src="https://cdn.staticneo.com/w/pokemon/8/81/353_Mini_Sprite.png" decoding="async" width="32" height="32" class="mw-file-element"></a></span>
+</td>
+<td><a href="/wiki/Shuppet" title="Shuppet">Shuppet</a>
+</td>
+<td><a href="/wiki/Cursed_Body" title="Cursed Body">Cursed Body</a>
+</td>
+<td>Spooky Manor
+</td>
+<td>Available
+</td></tr>
+<tr style="background:#d1d1fa">
+<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/File:354_Mini_Sprite.png" class="mw-file-description"><img src="https://cdn.staticneo.com/w/pokemon/d/db/354_Mini_Sprite.png" decoding="async" width="40" height="40" class="mw-file-element"></a></span>
+</td>
+<td><a href="/wiki/Banette" title="Banette">Banette</a>
+</td>
+<td><a href="/wiki/Cursed_Body" title="Cursed Body">Cursed Body</a>
+</td>
+<td>Halloween 2011 Event, male only (?)
+</td>
+<td>Event exclusive
+</td></tr>
+<tr style="background:#d1d1fa">
+<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/File:355_Mini_Sprite.png" class="mw-file-description"><img src="https://cdn.staticneo.com/w/pokemon/9/9a/355_Mini_Sprite.png" decoding="async" width="32" height="32" class="mw-file-element"></a></span>
+</td>
+<td><a href="/wiki/Duskull" title="Duskull">Duskull</a>
+</td>
+<td><a href="/wiki/Levitate" title="Levitate">Levitate</a>
+</td>
+<td>Spooky Manor
+</td>
+<td>Available
+</td></tr>
+
+<tr style="background:#d1d1fa">
+<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/File:357_Mini_Sprite.png" class="mw-file-description"><img src="https://cdn.staticneo.com/w/pokemon/7/7e/357_Mini_Sprite.png" decoding="async" width="32" height="32" class="mw-file-element"></a></span>
+</td>
+<td><a href="/wiki/Tropius" title="Tropius">Tropius</a>
+</td>
+<td><a href="/wiki/Harvest" title="Harvest">Harvest</a>
+</td>
+<td>Windswept Sky
+</td>
+<td><span style="background:transparent none repeat scroll 0 0;border-bottom:1px dotted black; color:black;cursor:help;" title="Obtain 5000+ Dream Points">Available</span>
+</td></tr>
+<tr style="background:#d1d1fa">
+<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/File:358_Mini_Sprite.png" class="mw-file-description"><img src="https://cdn.staticneo.com/w/pokemon/7/7f/358_Mini_Sprite.png" decoding="async" width="32" height="32" class="mw-file-element"></a></span>
+</td>
+<td><a href="/wiki/Chimecho" title="Chimecho">Chimecho</a>
+</td>
+<td><a href="/wiki/Levitate" title="Levitate">Levitate</a>
+</td>
+<td>Spooky Manor
+</td>
+<td>Available
+</td></tr>
+<tr style="background:#d1d1fa">
+<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/File:359_Mini_Sprite.png" class="mw-file-description"><img src="https://cdn.staticneo.com/w/pokemon/b/b4/359_Mini_Sprite.png" decoding="async" width="40" height="40" class="mw-file-element"></a></span>
+</td>
+<td><a href="/wiki/Absol" title="Absol">Absol</a>
+</td>
+<td><a href="/wiki/Justified" title="Justified">Justified</a>
+</td>
+<td>Rugged Mountain
+</td>
+<td><span style="background:transparent none repeat scroll 0 0;border-bottom:1px dotted black; color:black;cursor:help;" title="Obtain 5000+ Dream Points">Available</span>
+</td></tr>
+
+<tr style="background:#d1d1fa">
+<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/File:361_Mini_Sprite.png" class="mw-file-description"><img src="https://cdn.staticneo.com/w/pokemon/a/a0/361_Mini_Sprite.png" decoding="async" width="32" height="32" class="mw-file-element"></a></span>
+</td>
+<td><a href="/wiki/Snorunt" title="Snorunt">Snorunt</a>
+</td>
+<td><a href="/wiki/Moody" title="Moody">Moody</a>
+</td>
+<td>Icy Cave
+</td>
+<td><span style="background:transparent none repeat scroll 0 0;border-bottom:1px dotted black; color:black;cursor:help;" title="Obtain 5000+ Dream Points">Available</span>
+</td></tr>
+
+<tr style="background:#d1d1fa">
+<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/File:363_Mini_Sprite.png" class="mw-file-description"><img src="https://cdn.staticneo.com/w/pokemon/6/6d/363_Mini_Sprite.png" decoding="async" width="32" height="32" class="mw-file-element"></a></span>
+</td>
+<td><a href="/wiki/Spheal" title="Spheal">Spheal</a>
+</td>
+<td><a href="/wiki/Oblivious" title="Oblivious">Oblivious</a>
+</td>
+<td>Icy Cave
+</td>
+<td>Available
+</td></tr>
+
+
+<tr style="background:#d1d1fa">
+<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/File:366_Mini_Sprite.png" class="mw-file-description"><img src="https://cdn.staticneo.com/w/pokemon/e/e7/366_Mini_Sprite.png" decoding="async" width="32" height="32" class="mw-file-element"></a></span>
+</td>
+<td><a href="/wiki/Clamperl" title="Clamperl">Clamperl</a>
+</td>
+<td><a href="/wiki/Rattled" title="Rattled">Rattled</a>
+</td>
+<td>Sparkling Sea
+</td>
+<td>Available
+</td></tr>
+
+
+<tr style="background:#d1d1fa">
+<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/File:369_Mini_Sprite.png" class="mw-file-description"><img src="https://cdn.staticneo.com/w/pokemon/6/62/369_Mini_Sprite.png" decoding="async" width="32" height="32" class="mw-file-element"></a></span>
+</td>
+<td><a href="/wiki/Relicanth" title="Relicanth">Relicanth</a>
+</td>
+<td><a href="/wiki/Sturdy" title="Sturdy">Sturdy</a>
+</td>
+<td>Sparkling Sea
+</td>
+<td>Available
+</td></tr>
+<tr style="background:#d1d1fa">
+<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/File:370_Mini_Sprite.png" class="mw-file-description"><img src="https://cdn.staticneo.com/w/pokemon/e/eb/370_Mini_Sprite.png" decoding="async" width="32" height="32" class="mw-file-element"></a></span>
+</td>
+<td><a href="/wiki/Luvdisc" title="Luvdisc">Luvdisc</a>
+</td>
+<td><a href="/wiki/Hydration" title="Hydration">Hydration</a>
+</td>
+<td>Sparkling Sea
+</td>
+<td>Available
+</td></tr>
+<tr style="background:#d1d1fa">
+<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/File:371_Mini_Sprite.png" class="mw-file-description"><img src="https://cdn.staticneo.com/w/pokemon/c/c4/371_Mini_Sprite.png" decoding="async" width="32" height="32" class="mw-file-element"></a></span>
+</td>
+<td><a href="/wiki/Bagon" title="Bagon">Bagon</a>
+</td>
+<td><a href="/wiki/Sheer_Force" title="Sheer Force">Sheer Force</a>
+</td>
+<td>Rugged Mountain
+</td>
+<td><span style="background:transparent none repeat scroll 0 0;border-bottom:1px dotted black; color:black;cursor:help;" title="Obtain 10000+ Dream Points">Available</span>
+</td></tr>
+
+
+<tr style="background:#d1d1fa">
+<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/File:374_Mini_Sprite.png" class="mw-file-description"><img src="https://cdn.staticneo.com/w/pokemon/d/d8/374_Mini_Sprite.png" decoding="async" width="32" height="32" class="mw-file-element"></a></span>
+</td>
+<td><a href="/wiki/Beldum" title="Beldum">Beldum</a>
+</td>
+<td><a href="/wiki/Light_Metal" title="Light Metal">Light Metal</a>
+</td>
+<td>Rugged Mountain
+</td>
+<td><span style="background:transparent none repeat scroll 0 0;border-bottom:1px dotted black; color:black;cursor:help;" title="Obtain 5000+ Dream Points">Available</span>
+</td></tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<tr style="background:#d1d1fa">
+<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/File:397_Mini_Sprite.png" class="mw-file-description"><img src="https://cdn.staticneo.com/w/pokemon/4/44/397_Mini_Sprite.png" decoding="async" width="32" height="32" class="mw-file-element"></a></span>
+</td>
+<td><a href="/wiki/Staravia" title="Staravia">Staravia</a>
+</td>
+<td><a href="/wiki/Reckless" title="Reckless">Reckless</a>
+</td>
+<td>Windswept Sky
+</td>
+<td>Available
+</td></tr>
+
+<tr style="background:#d1d1fa">
+<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/File:399_Mini_Sprite.png" class="mw-file-description"><img src="https://cdn.staticneo.com/w/pokemon/c/ca/399_Mini_Sprite.png" decoding="async" width="32" height="32" class="mw-file-element"></a></span>
+</td>
+<td><a href="/wiki/Bidoof" title="Bidoof">Bidoof</a>
+</td>
+<td><a href="/wiki/Moody" title="Moody">Moody</a>
+</td>
+<td>Pleasant Forest
+</td>
+<td>Available
+</td></tr>
+
+<tr style="background:#d1d1fa">
+<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/File:401_Mini_Sprite.png" class="mw-file-description"><img src="https://cdn.staticneo.com/w/pokemon/b/b9/401_Mini_Sprite.png" decoding="async" width="32" height="32" class="mw-file-element"></a></span>
+</td>
+<td><a href="/wiki/Kricketot" title="Kricketot">Kricketot</a>
+</td>
+<td><a href="/wiki/Run_Away" title="Run Away">Run Away</a>
+</td>
+<td>Dream Park
+</td>
+<td>Available
+</td></tr>
+
+<tr style="background:#d1d1fa">
+<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/File:403_Mini_Sprite.png" class="mw-file-description"><img src="https://cdn.staticneo.com/w/pokemon/4/45/403_Mini_Sprite.png" decoding="async" width="32" height="32" class="mw-file-element"></a></span>
+</td>
+<td><a href="/wiki/Shinx" title="Shinx">Shinx</a>
+</td>
+<td><a href="/wiki/Guts" title="Guts">Guts</a>
+</td>
+<td>Pleasant Forest
+</td>
+<td>Available
+</td></tr>
+
+
+
+
+<tr style="background:#d1d1fa">
+<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/File:408_Mini_Sprite.png" class="mw-file-description"><img src="https://cdn.staticneo.com/w/pokemon/8/8f/408_Mini_Sprite.png" decoding="async" width="32" height="32" class="mw-file-element"></a></span>
+</td>
+<td><a href="/wiki/Cranidos" title="Cranidos">Cranidos</a>
+</td>
+<td><a href="/wiki/Sheer_Force" title="Sheer Force">Sheer Force</a>
+</td>
+<td>Icy Cave
+</td>
+<td><span style="background:transparent none repeat scroll 0 0;border-bottom:1px dotted black; color:black;cursor:help;" title="Obtain 5000+ Dream Points">Available</span>
+</td></tr>
+
+<tr style="background:#d1d1fa">
+<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/File:410_Mini_Sprite.png" class="mw-file-description"><img src="https://cdn.staticneo.com/w/pokemon/7/78/410_Mini_Sprite.png" decoding="async" width="32" height="32" class="mw-file-element"></a></span>
+</td>
+<td><a href="/wiki/Shieldon" title="Shieldon">Shieldon</a>
+</td>
+<td><a href="/wiki/Soundproof" title="Soundproof">Soundproof</a>
+</td>
+<td>Icy Cave
+</td>
+<td>Available
+</td></tr>
+
+<tr style="background:#d1d1fa">
+<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/File:412_Mini_Sprite.png" class="mw-file-description"><img src="https://cdn.staticneo.com/w/pokemon/1/16/412_Mini_Sprite.png" decoding="async" width="32" height="32" class="mw-file-element"></a></span>
+</td>
+<td><a href="/wiki/Burmy" title="Burmy">Burmy</a>
+</td>
+<td><a href="/wiki/Overcoat" title="Overcoat">Overcoat</a>
+</td>
+<td>Pokemon Café Forest (Event Zone)<br>
+<p>Rugged Mountain
+</p>
+</td>
+<td>Available
+</td></tr>
+
+
+<tr style="background:#d1d1fa">
+<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/File:415_Mini_Sprite.png" class="mw-file-description"><img src="https://cdn.staticneo.com/w/pokemon/e/e0/415_Mini_Sprite.png" decoding="async" width="32" height="32" class="mw-file-element"></a></span>
+</td>
+<td><a href="/wiki/Combee" title="Combee">Combee</a>
+</td>
+<td><a href="/wiki/Hustle" title="Hustle">Hustle</a>
+</td>
+<td>Dream Park
+</td>
+<td><span style="background:transparent none repeat scroll 0 0;border-bottom:1px dotted black; color:black;cursor:help;" title="Black &amp; White Exclusive">Available</span>
+</td></tr>
+
+<tr style="background:#d1d1fa">
+<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/File:417_Mini_Sprite.png" class="mw-file-description"><img src="https://cdn.staticneo.com/w/pokemon/4/4b/417_Mini_Sprite.png" decoding="async" width="32" height="32" class="mw-file-element"></a></span>
+</td>
+<td><a href="/wiki/Pachirisu" title="Pachirisu">Pachirisu</a>
+</td>
+<td><a href="/wiki/Volt_Absorb" title="Volt Absorb">Volt Absorb</a>
+</td>
+<td>Pleasant Forest
+</td>
+<td><span style="background:transparent none repeat scroll 0 0;border-bottom:1px dotted black; color:black;cursor:help;" title="Obtain 5000+ Dream Points">Available</span>
+</td></tr>
+<tr style="background:#d1d1fa">
+<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/File:418_Mini_Sprite.png" class="mw-file-description"><img src="https://cdn.staticneo.com/w/pokemon/0/00/418_Mini_Sprite.png" decoding="async" width="32" height="32" class="mw-file-element"></a></span>
+</td>
+<td><a href="/wiki/Buizel" title="Buizel">Buizel</a>
+</td>
+<td><a href="/wiki/Water_Veil" title="Water Veil">Water Veil</a>
+</td>
+<td>Sparkling Sea
+</td>
+<td>Available
+</td></tr>
+
+<tr style="background:#d1d1fa">
+<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/File:420_Mini_Sprite.png" class="mw-file-description"><img src="https://cdn.staticneo.com/w/pokemon/7/74/420_Mini_Sprite.png" decoding="async" width="32" height="32" class="mw-file-element"></a></span>
+</td>
+<td><a href="/wiki/Cherubi" title="Cherubi">Cherubi</a>
+</td>
+<td><a href="/wiki/Chlorophyll" title="Chlorophyll">Chlorophyll</a>
+</td>
+<td>Dream Park
+</td>
+<td>Available
+</td></tr>
+<tr>
+<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/File:422_Mini_Sprite.png" class="mw-file-description"><img src="https://cdn.staticneo.com/w/pokemon/b/b7/422_Mini_Sprite.png" decoding="async" width="32" height="32" class="mw-file-element"></a></span>
+</td>
+<td><a href="/wiki/Shellos" title="Shellos">Shellos</a>
+</td>
+<td><a href="/wiki/Sand_Force" title="Sand Force">Sand Force</a>
+</td>
+<td>Sparkling Sea
+</td>
+<td><span style="background:transparent none repeat scroll 0 0;border-bottom:1px dotted black; color:black;cursor:help;" title="Obtain 5000+ Dream Points">Available</span>
+</td></tr>
+
+
+<tr style="background:#d1d1fa">
+<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/File:425_Mini_Sprite.png" class="mw-file-description"><img src="https://cdn.staticneo.com/w/pokemon/a/aa/425_Mini_Sprite.png" decoding="async" width="32" height="32" class="mw-file-element"></a></span>
+</td>
+<td><a href="/wiki/Drifloon" title="Drifloon">Drifloon</a>
+</td>
+<td><a href="/wiki/Flare_Boost" title="Flare Boost">Flare Boost</a>
+</td>
+<td>Windswept Sky
+</td>
+<td>Available
+</td></tr>
+
+<tr style="background:#d1d1fa">
+<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/File:427_Mini_Sprite.png" class="mw-file-description"><img src="https://cdn.staticneo.com/w/pokemon/d/d8/427_Mini_Sprite.png" decoding="async" width="32" height="32" class="mw-file-element"></a></span>
+</td>
+<td><a href="/wiki/Buneary" title="Buneary">Buneary</a>
+</td>
+<td><a href="/wiki/Limber" title="Limber">Limber</a>
+</td>
+<td>Pleasant Forest
+</td>
+<td><span style="background:transparent none repeat scroll 0 0;border-bottom:1px dotted black; color:black;cursor:help;" title="Obtain 5000+ Dream Points">Available</span>
+</td></tr>
+
+
+<tr style="background:#d1d1fa">
+<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/File:431_Mini_Sprite.png" class="mw-file-description"><img src="https://cdn.staticneo.com/w/pokemon/b/b4/431_Mini_Sprite.png" decoding="async" width="32" height="32" class="mw-file-element"></a></span>
+</td>
+<td><a href="/wiki/Glameow" title="Glameow">Glameow</a>
+</td>
+<td><a href="/wiki/Keen_Eye" title="Keen Eye">Keen Eye</a>
+</td>
+<td>Pleasant Forest
+</td>
+<td><span style="background:transparent none repeat scroll 0 0;border-bottom:1px dotted black; color:black;cursor:help;" title="Obtain 5000+ Dream Points">Available</span>
+</td></tr>
+
+<tr style="background:#d1d1fa">
+<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/File:434_Mini_Sprite.png" class="mw-file-description"><img src="https://cdn.staticneo.com/w/pokemon/a/aa/434_Mini_Sprite.png" decoding="async" width="32" height="32" class="mw-file-element"></a></span>
+</td>
+<td><a href="/wiki/Stunky" title="Stunky">Stunky</a>
+</td>
+<td><a href="/wiki/Keen_Eye" title="Keen Eye">Keen Eye</a>
+</td>
+<td>Spooky Manor
+</td>
+<td>Available
+</td></tr>
+
+<tr style="background:#d1d1fa">
+<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/File:436_Mini_Sprite.png" class="mw-file-description"><img src="https://cdn.staticneo.com/w/pokemon/2/24/436_Mini_Sprite.png" decoding="async" width="32" height="32" class="mw-file-element"></a></span>
+</td>
+<td><a href="/wiki/Bronzor" title="Bronzor">Bronzor</a>
+</td>
+<td><a href="/wiki/Heavy_Metal" title="Heavy Metal">Heavy Metal</a>
+</td>
+<td>Spooky Manor
+</td>
+<td>Available
+</td></tr>
+
+
+
+
+<tr style="background:#d1d1fa">
+<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/File:441_Mini_Sprite.png" class="mw-file-description"><img src="https://cdn.staticneo.com/w/pokemon/c/c5/441_Mini_Sprite.png" decoding="async" width="32" height="32" class="mw-file-element"></a></span>
+</td>
+<td><a href="/wiki/Chatot" title="Chatot">Chatot</a>
+</td>
+<td><a href="/wiki/Big_Pecks" title="Big Pecks">Big Pecks</a>
+</td>
+<td>Windswept Sky
+</td>
+<td><span style="background:transparent none repeat scroll 0 0;border-bottom:1px dotted black; color:black;cursor:help;" title="Obtain 5000+ Dream Points">Available</span>
+</td></tr>
+<tr style="background:#d1d1fa">
+<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/File:442_Mini_Sprite.png" class="mw-file-description"><img src="https://cdn.staticneo.com/w/pokemon/d/d1/442_Mini_Sprite.png" decoding="async" width="40" height="40" class="mw-file-element"></a></span>
+</td>
+<td><a href="/wiki/Spiritomb" title="Spiritomb">Spiritomb</a>
+</td>
+<td><a href="/wiki/Infiltrator" title="Infiltrator">Infiltrator</a>
+</td>
+<td>Spooky Manor
+</td>
+<td><span style="background:transparent none repeat scroll 0 0;border-bottom:1px dotted black; color:black;cursor:help;" title="Obtain 10000+ Dream Points">Available</span>
+</td></tr>
+<tr style="background:#d1d1fa">
+<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/File:443_Mini_Sprite.png" class="mw-file-description"><img src="https://cdn.staticneo.com/w/pokemon/5/58/443_Mini_Sprite.png" decoding="async" width="32" height="32" class="mw-file-element"></a></span>
+</td>
+<td><a href="/wiki/Gible" title="Gible">Gible</a>
+</td>
+<td><a href="/wiki/Rough_Skin" title="Rough Skin">Rough Skin</a>
+</td>
+<td>Icy Cave
+</td>
+<td><span style="background:transparent none repeat scroll 0 0;border-bottom:1px dotted black; color:black;cursor:help;" title="Obtain 10,000+ Dream Points">Available</span>
+</td></tr>
+
+
+
+
+
+<tr style="background:#d1d1fa">
+<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/File:449_Mini_Sprite.png" class="mw-file-description"><img src="https://cdn.staticneo.com/w/pokemon/5/51/449_Mini_Sprite.png" decoding="async" width="32" height="32" class="mw-file-element"></a></span>
+</td>
+<td><a href="/wiki/Hippopotas" title="Hippopotas">Hippopotas</a>
+</td>
+<td><a href="/wiki/Sand_Force" title="Sand Force">Sand Force</a>
+</td>
+<td>Rugged Mountain
+</td>
+<td>Available
+</td></tr>
+
+<tr style="background:#d1d1fa">
+<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/File:451_Mini_Sprite.png" class="mw-file-description"><img src="https://cdn.staticneo.com/w/pokemon/a/a5/451_Mini_Sprite.png" decoding="async" width="32" height="32" class="mw-file-element"></a></span>
+</td>
+<td><a href="/wiki/Skorupi" title="Skorupi">Skorupi</a>
+</td>
+<td><a href="/wiki/Keen_Eye" title="Keen Eye">Keen Eye</a>
+</td>
+<td>Rugged Mountain
+</td>
+<td>Available
+</td></tr>
+
+<tr style="background:#d1d1fa">
+<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/File:453_Mini_Sprite.png" class="mw-file-description"><img src="https://cdn.staticneo.com/w/pokemon/f/f8/453_Mini_Sprite.png" decoding="async" width="32" height="32" class="mw-file-element"></a></span>
+</td>
+<td><a href="/wiki/Croagunk" title="Croagunk">Croagunk</a>
+</td>
+<td><a href="/wiki/Poison_Touch" title="Poison Touch">Poison Touch</a>
+</td>
+<td>Rugged Mountain
+</td>
+<td><span style="background:transparent none repeat scroll 0 0;border-bottom:1px dotted black; color:black;cursor:help;" title="Obtain 5000+ Dream Points">Available</span>
+</td></tr>
+
+<tr style="background:#d1d1fa">
+<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/File:455_Mini_Sprite.png" class="mw-file-description"><img src="https://cdn.staticneo.com/w/pokemon/3/3c/455_Mini_Sprite.png" decoding="async" width="32" height="32" class="mw-file-element"></a></span>
+</td>
+<td><a href="/wiki/Carnivine" title="Carnivine">Carnivine</a>
+</td>
+<td><a href="/wiki/Levitate" title="Levitate">Levitate</a>
+</td>
+<td>Dream Park
+</td>
+<td>Available
+</td></tr>
+<tr>
+<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/File:456_Mini_Sprite.png" class="mw-file-description"><img src="https://cdn.staticneo.com/w/pokemon/f/fc/456_Mini_Sprite.png" decoding="async" width="40" height="40" class="mw-file-element"></a></span>
+</td>
+<td><a href="/wiki/Finneon" title="Finneon">Finneon</a>
+</td>
+<td><a href="/wiki/Water_Veil" title="Water Veil">Water Veil</a>
+</td>
+<td>Sparkling Sea
+</td>
+<td>Available
+</td></tr>
+
+
+<tr style="background:#d1d1fa">
+<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/File:459_Mini_Sprite.png" class="mw-file-description"><img src="https://cdn.staticneo.com/w/pokemon/4/4a/459_Mini_Sprite.png" decoding="async" width="32" height="32" class="mw-file-element"></a></span>
+</td>
+<td><a href="/wiki/Snover" title="Snover">Snover</a>
+</td>
+<td><a href="/wiki/Soundproof" title="Soundproof">Soundproof</a>
+</td>
+<td>Icy Cave
+</td>
+<td>Available
+</td></tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<tr style="background:#d1d1fa">
+<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/File:479_Mini_Sprite.png" class="mw-file-description"><img src="https://cdn.staticneo.com/w/pokemon/6/60/479_Mini_Sprite.png" decoding="async" width="40" height="40" class="mw-file-element"></a></span>
+</td>
+<td><a href="/wiki/Rotom" title="Rotom">Rotom</a>
+</td>
+<td><a href="/wiki/Levitate" title="Levitate">Levitate</a>
+</td>
+<td>Spooky Manor
+</td>
+<td><span style="background:transparent none repeat scroll 0 0;border-bottom:1px dotted black; color:black;cursor:help;" title="Obtain 5000+ Dream Points">Available</span>
+</td></tr>
+
+
+
+
+
+
+
+<tr style="background:#d1d1fa">
+<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/File:519_Mini_Sprite.png" class="mw-file-description"><img src="https://cdn.staticneo.com/w/pokemon/5/5e/519_Mini_Sprite.png" decoding="async" width="32" height="32" class="mw-file-element"></a></span>
+</td>
+<td><a href="/wiki/Pidove" title="Pidove">Pidove</a>
+</td>
+<td><a href="/wiki/Rivalry" title="Rivalry">Rivalry</a>
+</td>
+<td>Windswept Sky
+</td>
+<td>Available
+</td></tr>
+<tr style="background:#d1d1fa">
+<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/File:525_Mini_Sprite.png" class="mw-file-description"><img src="https://cdn.staticneo.com/w/pokemon/2/23/525_Mini_Sprite.png" decoding="async" width="32" height="32" class="mw-file-element"></a></span>
+</td>
+<td><a href="/wiki/Boldore" title="Boldore">Boldore</a>
+</td>
+<td><a href="/wiki/Sand_Force" title="Sand Force">Sand Force</a>
+</td>
+<td>Icy Cave
+</td>
+<td><span style="background:transparent none repeat scroll 0 0;border-bottom:1px dotted black; color:black;cursor:help;" title="Obtain 5000+ Dream Points">Available</span>
+</td></tr>
+<tr style="background:#d1d1fa">
+<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/File:529_Mini_Sprite.png" class="mw-file-description"><img src="https://cdn.staticneo.com/w/pokemon/4/4b/529_Mini_Sprite.png" decoding="async" width="32" height="32" class="mw-file-element"></a></span>
+</td>
+<td><a href="/wiki/Drilbur" title="Drilbur">Drilbur</a>
+</td>
+<td><a href="/wiki/Mold_Breaker" title="Mold Breaker">Mold Breaker</a>
+</td>
+<td>Icy Cave
+</td>
+<td>Available
+</td></tr>
+<tr style="background:#d1d1fa">
+<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/File:531_Mini_Sprite.png" class="mw-file-description"><img src="https://cdn.staticneo.com/w/pokemon/9/93/531_Mini_Sprite.png" decoding="async" width="32" height="32" class="mw-file-element"></a></span>
+</td>
+<td><a href="/wiki/Audino" title="Audino">Audino</a>
+</td>
+<td><a href="/wiki/Klutz" title="Klutz">Klutz</a>
+</td>
+<td>Dream Park
+</td>
+<td><span style="background:transparent none repeat scroll 0 0;border-bottom:1px dotted black; color:black;cursor:help;" title="Black 2 &amp; White 2 Exclusive">Available</span>
+</td></tr>
+<tr style="background:#d1d1fa">
+<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/File:533_Mini_Sprite.png" class="mw-file-description"><img src="https://cdn.staticneo.com/w/pokemon/0/07/533_Mini_Sprite.png" decoding="async" width="32" height="32" class="mw-file-element"></a></span>
+</td>
+<td><a href="/wiki/Gurdurr" title="Gurdurr">Gurdurr</a>
+</td>
+<td><a href="/wiki/Iron_Fist" title="Iron Fist">Iron Fist</a>
+</td>
+<td>Dream Park
+</td>
+<td><span style="background:transparent none repeat scroll 0 0;border-bottom:1px dotted black; color:black;cursor:help;" title="Black 2 &amp; White 2 Exclusive">Available</span>
+</td></tr>
+<tr style="background:#d1d1fa">
+<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/File:535_Mini_Sprite.png" class="mw-file-description"><img src="https://cdn.staticneo.com/w/pokemon/c/c1/535_Mini_Sprite.png" decoding="async" width="32" height="32" class="mw-file-element"></a></span>
+</td>
+<td><a href="/wiki/Tympole" title="Tympole">Tympole</a>
+</td>
+<td><a href="/wiki/Water_Absorb" title="Water Absorb">Water Absorb</a>
+</td>
+<td>Pleasant Forest
+</td>
+<td>Available
+</td></tr>
+<tr style="background:#d1d1fa">
+<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/File:538_Mini_Sprite.png" class="mw-file-description"><img src="https://cdn.staticneo.com/w/pokemon/8/86/538_Mini_Sprite.png" decoding="async" width="32" height="32" class="mw-file-element"></a></span>
+</td>
+<td><a href="/wiki/Throh" title="Throh">Throh</a>
+</td>
+<td><a href="/wiki/Mold_Breaker" title="Mold Breaker">Mold Breaker</a>
+</td>
+<td>Dream Park
+</td>
+<td><span style="background:transparent none repeat scroll 0 0;border-bottom:1px dotted black; color:black;cursor:help;" title="Black 2 &amp; White 2 Exclusive">Available</span>
+</td></tr>
+<tr style="background:#d1d1fa">
+<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/File:539_Mini_Sprite.png" class="mw-file-description"><img src="https://cdn.staticneo.com/w/pokemon/3/3a/539_Mini_Sprite.png" decoding="async" width="32" height="32" class="mw-file-element"></a></span>
+</td>
+<td><a href="/wiki/Sawk" title="Sawk">Sawk</a>
+</td>
+<td><a href="/wiki/Mold_Breaker" title="Mold Breaker">Mold Breaker</a>
+</td>
+<td>Dream Park
+</td>
+<td><span style="background:transparent none repeat scroll 0 0;border-bottom:1px dotted black; color:black;cursor:help;" title="Black 2 &amp; White 2 Exclusive">Available</span>
+</td></tr>
+<tr style="background:#d1d1fa">
+<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/File:545_Mini_Sprite.png" class="mw-file-description"><img src="https://cdn.staticneo.com/w/pokemon/3/39/545_Mini_Sprite.png" decoding="async" width="32" height="32" class="mw-file-element"></a></span>
+</td>
+<td><a href="/wiki/Scolipede" title="Scolipede">Scolipede</a>
+</td>
+<td><a href="/wiki/Quick_Feet" title="Quick Feet">Quick Feet</a>
+</td>
+<td>Pleasant Forest
+</td>
+<td><span style="background:transparent none repeat scroll 0 0;border-bottom:1px dotted black; color:black;cursor:help;" title="Obtain 5000+ Dream Points">Available</span>
+</td></tr>
+<tr style="background:#d1d1fa">
+<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/File:546_Mini_Sprite.png" class="mw-file-description"><img src="https://cdn.staticneo.com/w/pokemon/8/84/546_Mini_Sprite.png" decoding="async" width="32" height="32" class="mw-file-element"></a></span>
+</td>
+<td><a href="/wiki/Cottonee" title="Cottonee">Cottonee</a>
+</td>
+<td><a href="/wiki/Chlorophyll" title="Chlorophyll">Chlorophyll</a>
+</td>
+<td>Pleasant Forest
+</td>
+<td>Available
+</td></tr>
+<tr style="background:#d1d1fa">
+<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/File:548_Mini_Sprite.png" class="mw-file-description"><img src="https://cdn.staticneo.com/w/pokemon/e/ef/548_Mini_Sprite.png" decoding="async" width="32" height="32" class="mw-file-element"></a></span>
+</td>
+<td><a href="/wiki/Petilil" title="Petilil">Petilil</a>
+</td>
+<td><a href="/wiki/Leaf_Guard" title="Leaf Guard">Leaf Guard</a>
+</td>
+<td>Pleasant Forest
+</td>
+<td>Available
+</td></tr>
+<tr style="background:#d1d1fa">
+<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/File:550a_Mini_Sprite.png" class="mw-file-description"><img src="https://cdn.staticneo.com/w/pokemon/7/78/550a_Mini_Sprite.png" decoding="async" width="32" height="32" class="mw-file-element"></a></span>
+</td>
+<td><a href="/wiki/Basculin" title="Basculin">Basculin</a>
+</td>
+<td><a href="/wiki/Mold_Breaker" title="Mold Breaker">Mold Breaker</a>
+</td>
+<td>Sparkling Sea
+</td>
+<td>Available
+</td></tr>
+<tr style="background:#d1d1fa">
+<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/File:553_Mini_Sprite.png" class="mw-file-description"><img src="https://cdn.staticneo.com/w/pokemon/7/7f/553_Mini_Sprite.png" decoding="async" width="32" height="32" class="mw-file-element"></a></span>
+</td>
+<td><a href="/wiki/Krookodile" title="Krookodile">Krookodile</a>
+</td>
+<td><a href="/wiki/Anger_Point" title="Anger Point">Anger Point</a>
+</td>
+<td>Rugged Mountain
+</td>
+<td><span style="background:transparent none repeat scroll 0 0;border-bottom:1px dotted black; color:black;cursor:help;" title="Obtain 10000+ Dream Points">Available</span>
+</td></tr>
+<tr style="background:#d1d1fa">
+<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/File:556_Mini_Sprite.png" class="mw-file-description"><img src="https://cdn.staticneo.com/w/pokemon/7/7d/556_Mini_Sprite.png" decoding="async" width="32" height="32" class="mw-file-element"></a></span>
+</td>
+<td><a href="/wiki/Maractus" title="Maractus">Maractus</a>
+</td>
+<td><a href="/wiki/Storm_Drain" title="Storm Drain">Storm Drain</a>
+</td>
+<td>Rugged Mountain
+</td>
+<td><span style="background:transparent none repeat scroll 0 0;border-bottom:1px dotted black; color:black;cursor:help;" title="Obtain 5000+ Dream Points">Available</span>
+</td></tr>
+
+<tr style="background:#d1d1fa">
+<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/File:558_Mini_Sprite.png" class="mw-file-description"><img src="https://cdn.staticneo.com/w/pokemon/8/84/558_Mini_Sprite.png" decoding="async" width="32" height="32" class="mw-file-element"></a></span>
+</td>
+<td><a href="/wiki/Crustle" title="Crustle">Crustle</a>
+</td>
+<td><a href="/wiki/Weak_Armor" title="Weak Armor">Weak Armor</a>
+</td>
+<td>Rugged Mountain
+</td>
+<td><span style="background:transparent none repeat scroll 0 0;border-bottom:1px dotted black; color:black;cursor:help;" title="Obtain 5000+ Dream Points">Available</span>
+</td></tr>
+<tr style="background:#d1d1fa">
+<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/File:559_Mini_Sprite.png" class="mw-file-description"><img src="https://cdn.staticneo.com/w/pokemon/3/33/559_Mini_Sprite.png" decoding="async" width="32" height="32" class="mw-file-element"></a></span>
+</td>
+<td><a href="/wiki/Scraggy" title="Scraggy">Scraggy</a>
+</td>
+<td><a href="/wiki/Intimidate" title="Intimidate">Intimidate</a>
+</td>
+<td>Dream Park
+</td>
+<td><span style="background:transparent none repeat scroll 0 0;border-bottom:1px dotted black; color:black;cursor:help;" title="Black 2 &amp; White 2 Exclusive">Available</span>
+</td></tr>
+<tr style="background:#d1d1fa">
+<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/File:561_Mini_Sprite.png" class="mw-file-description"><img src="https://cdn.staticneo.com/w/pokemon/a/a2/561_Mini_Sprite.png" decoding="async" width="32" height="32" class="mw-file-element"></a></span>
+</td>
+<td><a href="/wiki/Sigilyph" title="Sigilyph">Sigilyph</a>
+</td>
+<td><a href="/wiki/Tinted_Lens" title="Tinted Lens">Tinted Lens</a>
+</td>
+<td>Windswept Sky
+</td>
+<td>Available
+</td></tr>
+<tr style="background:#d1d1fa">
+<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/File:564_Mini_Sprite.png" class="mw-file-description"><img src="https://cdn.staticneo.com/w/pokemon/a/a9/564_Mini_Sprite.png" decoding="async" width="32" height="32" class="mw-file-element"></a></span>
+</td>
+<td><a href="/wiki/Tirtouga" title="Tirtouga">Tirtouga</a>
+</td>
+<td><a href="/wiki/Swift_Swim" title="Swift Swim">Swift Swim</a>
+</td>
+<td>Sparkling Sea
+</td>
+<td><span style="background:transparent none repeat scroll 0 0;border-bottom:1px dotted black; color:black;cursor:help;" title="Obtain 5000+ Dream Points">Available</span>
+</td></tr>
+<tr style="background:#d1d1fa">
+<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/File:578_Mini_Sprite.png" class="mw-file-description"><img src="https://cdn.staticneo.com/w/pokemon/5/5c/578_Mini_Sprite.png" decoding="async" width="32" height="32" class="mw-file-element"></a></span>
+</td>
+<td><a href="/wiki/Duosion" title="Duosion">Duosion</a>
+</td>
+<td><a href="/wiki/Regenerator" title="Regenerator">Regenerator</a>
+</td>
+<td>Spooky Manor
+</td>
+<td><span style="background:transparent none repeat scroll 0 0;border-bottom:1px dotted black; color:black;cursor:help;" title="Obtain 10000+ Dream Points">Available</span>
+</td></tr>
+<tr style="background:#d1d1fa">
+<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/File:580_Mini_Sprite.png" class="mw-file-description"><img src="https://cdn.staticneo.com/w/pokemon/4/4c/580_Mini_Sprite.png" decoding="async" width="32" height="32" class="mw-file-element"></a></span>
+</td>
+<td><a href="/wiki/Ducklett" title="Ducklett">Ducklett</a>
+</td>
+<td><a href="/wiki/Hydration" title="Hydration">Hydration</a>
+</td>
+<td>Windswept Sky
+</td>
+<td>Available
+</td></tr>
+<tr style="background:#d1d1fa">
+<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/File:583_Mini_Sprite.png" class="mw-file-description"><img src="https://cdn.staticneo.com/w/pokemon/a/af/583_Mini_Sprite.png" decoding="async" width="32" height="32" class="mw-file-element"></a></span>
+</td>
+<td><a href="/wiki/Vanillish" title="Vanillish">Vanillish</a>
+</td>
+<td><a href="/wiki/Weak_Armor" title="Weak Armor">Weak Armor</a>
+</td>
+<td>Icy Cave
+</td>
+<td><span style="background:transparent none repeat scroll 0 0;border-bottom:1px dotted black; color:black;cursor:help;" title="Obtain 5000+ Dream Points">Available</span>
+</td></tr>
+<tr style="background:#d1d1fa">
+<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/File:587_Mini_Sprite.png" class="mw-file-description"><img src="https://cdn.staticneo.com/w/pokemon/6/62/587_Mini_Sprite.png" decoding="async" width="32" height="32" class="mw-file-element"></a></span>
+</td>
+<td><a href="/wiki/Emolga" title="Emolga">Emolga</a>
+</td>
+<td><a href="/wiki/Motor_Drive" title="Motor Drive">Motor Drive</a>
+</td>
+<td>Windswept Sky
+</td>
+<td><span style="background:transparent none repeat scroll 0 0;border-bottom:1px dotted black; color:black;cursor:help;" title="Obtain 5000+ Dream Points">Available</span>
+</td></tr>
+<tr style="background:#d1d1fa">
+<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/File:588_Mini_Sprite.png" class="mw-file-description"><img src="https://cdn.staticneo.com/w/pokemon/9/9d/588_Mini_Sprite.png" decoding="async" width="32" height="32" class="mw-file-element"></a></span>
+</td>
+<td><a href="/wiki/Karrablast" title="Karrablast">Karrablast</a>
+</td>
+<td><a href="/wiki/No_Guard" title="No Guard">No Guard</a>
+</td>
+<td>Pleasant Forest
+</td>
+<td>Available
+</td></tr>
+<tr style="background:#d1d1fa">
+<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/File:594_Mini_Sprite.png" class="mw-file-description"><img src="https://cdn.staticneo.com/w/pokemon/f/fd/594_Mini_Sprite.png" decoding="async" width="32" height="32" class="mw-file-element"></a></span>
+</td>
+<td><a href="/wiki/Alomomola" title="Alomomola">Alomomola</a>
+</td>
+<td><a href="/wiki/Regenerator" title="Regenerator">Regenerator</a>
+</td>
+<td>Sparkling Sea
+</td>
+<td>Available
+</td></tr>
+
+<tr style="background:#d1d1fa">
+<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/File:596_Mini_Sprite.png" class="mw-file-description"><img src="https://cdn.staticneo.com/w/pokemon/6/62/596_Mini_Sprite.png" decoding="async" width="32" height="32" class="mw-file-element"></a></span>
+</td>
+<td><a href="/wiki/Galvantula" title="Galvantula">Galvantula</a>
+</td>
+<td><a href="/wiki/Swarm" title="Swarm">Swarm</a>
+</td>
+<td>Spooky Manor
+</td>
+<td><span style="background:transparent none repeat scroll 0 0;border-bottom:1px dotted black; color:black;cursor:help;" title="Obtain 5000+ Dream Points">Available</span>
+</td></tr>
+<tr style="background:#d1d1fa">
+<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/File:600_Mini_Sprite.png" class="mw-file-description"><img src="https://cdn.staticneo.com/w/pokemon/a/aa/600_Mini_Sprite.png" decoding="async" width="32" height="32" class="mw-file-element"></a></span>
+</td>
+<td><a href="/wiki/Klang" title="Klang">Klang</a>
+</td>
+<td><a href="/wiki/Clear_Body" title="Clear Body">Clear Body</a>
+</td>
+<td>Icy Cave
+</td>
+<td><span style="background:transparent none repeat scroll 0 0;border-bottom:1px dotted black; color:black;cursor:help;" title="Obtain 5000+ Dream Points">Available</span>
+</td></tr>
+<tr style="background:#d1d1fa">
+<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/File:605_Mini_Sprite.png" class="mw-file-description"><img src="https://cdn.staticneo.com/w/pokemon/3/3e/605_Mini_Sprite.png" decoding="async" width="32" height="32" class="mw-file-element"></a></span>
+</td>
+<td><a href="/wiki/Elgyem" title="Elgyem">Elgyem</a>
+</td>
+<td><a href="/wiki/Analytic" title="Analytic">Analytic</a>
+</td>
+<td>Spooky Manor
+</td>
+<td>Available
+</td></tr>
+<tr style="background:#d1d1fa">
+<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/File:610_Mini_Sprite.png" class="mw-file-description"><img src="https://cdn.staticneo.com/w/pokemon/9/97/610_Mini_Sprite.png" decoding="async" width="32" height="32" class="mw-file-element"></a></span>
+</td>
+<td><a href="/wiki/Axew" title="Axew">Axew</a>
+</td>
+<td><a href="/wiki/Unnerve" title="Unnerve">Unnerve</a>
+</td>
+<td>Icy Cave
+</td>
+<td><span style="background:transparent none repeat scroll 0 0;border-bottom:1px dotted black; color:black;cursor:help;" title="Obtain 10000+ Dream Points">Available</span>
+</td></tr>
+<tr style="background:#d1d1fa">
+<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/File:616_Mini_Sprite.png" class="mw-file-description"><img src="https://cdn.staticneo.com/w/pokemon/c/cc/616_Mini_Sprite.png" decoding="async" width="32" height="32" class="mw-file-element"></a></span>
+</td>
+<td><a href="/wiki/Shelmet" title="Shelmet">Shelmet</a>
+</td>
+<td><a href="/wiki/Overcoat" title="Overcoat">Overcoat</a>
+</td>
+<td>Pleasant Forest
+</td>
+<td>Available
+</td></tr>
+<tr style="background:#d1d1fa">
+<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/File:618_Mini_Sprite.png" class="mw-file-description"><img src="https://cdn.staticneo.com/w/pokemon/6/6d/618_Mini_Sprite.png" decoding="async" width="32" height="32" class="mw-file-element"></a></span>
+</td>
+<td><a href="/wiki/Stunfisk" title="Stunfisk">Stunfisk</a>
+</td>
+<td><a href="/wiki/Sand_Veil" title="Sand Veil">Sand Veil</a>
+</td>
+<td>Sparkling Sea
+</td>
+<td>Available
+</td></tr>
+<tr style="background:#d1d1fa">
+<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/File:621_Mini_Sprite.png" class="mw-file-description"><img src="https://cdn.staticneo.com/w/pokemon/f/f8/621_Mini_Sprite.png" decoding="async" width="32" height="32" class="mw-file-element"></a></span>
+</td>
+<td><a href="/wiki/Druddigon" title="Druddigon">Druddigon</a>
+</td>
+<td><a href="/wiki/Mold_Breaker" title="Mold Breaker">Mold Breaker</a>
+</td>
+<td>Icy Cave
+</td>
+<td>Available
+</td></tr>
+<tr style="background:#d1d1fa">
+<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/File:622_Mini_Sprite.png" class="mw-file-description"><img src="https://cdn.staticneo.com/w/pokemon/f/fe/622_Mini_Sprite.png" decoding="async" width="32" height="32" class="mw-file-element"></a></span>
+</td>
+<td><a href="/wiki/Golett" title="Golett">Golett</a>
+</td>
+<td><a href="/wiki/No_Guard" title="No Guard">No Guard</a>
+</td>
+<td>Spooky Manor
+</td>
+<td><span style="background:transparent none repeat scroll 0 0;border-bottom:1px dotted black; color:black;cursor:help;" title="Obtain 10000+ Dream Points">Available</span>
+</td></tr>
+
+<tr style="background:#d1d1fa">
+<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/File:624_Mini_Sprite.png" class="mw-file-description"><img src="https://cdn.staticneo.com/w/pokemon/1/15/624_Mini_Sprite.png" decoding="async" width="32" height="32" class="mw-file-element"></a></span>
+</td>
+<td><a href="/wiki/Pawniard" title="Pawniard">Pawniard</a>
+</td>
+<td><a href="/wiki/Pressure" title="Pressure">Pressure</a>
+</td>
+<td>Spooky Manor
+</td>
+<td>Available
+</td></tr>
+
+<tr style="background:#d1d1fa">
+<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/File:631_Mini_Sprite.png" class="mw-file-description"><img src="https://cdn.staticneo.com/w/pokemon/3/3b/631_Mini_Sprite.png" decoding="async" width="32" height="32" class="mw-file-element"></a></span>
+</td>
+<td><a href="/wiki/Heatmor" title="Heatmor">Heatmor</a>
+</td>
+<td><a href="/wiki/White_Smoke" title="White Smoke">White Smoke</a>
+</td>
+<td>Rugged Mountain
+</td>
+<td>Available
+</td></tr>
+<tr style="background:#d1d1fa">
+<td><span class="mw-default-size" typeof="mw:File"><a href="/wiki/File:632_Mini_Sprite.png" class="mw-file-description"><img src="https://cdn.staticneo.com/w/pokemon/7/79/632_Mini_Sprite.png" decoding="async" width="32" height="32" class="mw-file-element"></a></span>
+</td>
+<td><a href="/wiki/Durant" title="Durant">Durant</a>
+</td>
+<td><a href="/wiki/Truant" title="Truant">Truant</a>
+</td>
+<td>Rugged Mountain
+</td>
+<td>Available
+</td></tr>
