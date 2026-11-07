@@ -1,5 +1,5 @@
 # Dream World Pokémon
-This repo includes an HTML document, a JS script, and an input text file with data pulled from the Neoseeker website. The table contains data for Pokémon that you can (were able to) catch in the Dream World in Pokémon Black, White, Black 2, and White 2.
+This repo includes an HTML document, a JS script, and an input text file with <a href="https://pokemon.neoseeker.com/wiki/Dream_World/Available_Pok%C3%A9mon">data pulled from the Neoseeker website</a>. The table contains data for Pokémon that you can (were able to) catch in the Dream World in Pokémon Black, White, Black 2, and White 2.
 
 Right now, it's just a simple table with records for each pokémon, their hidden ability, where to find them, and whether there are any conditions that need to be met before the pokémon can be encountered.
 
