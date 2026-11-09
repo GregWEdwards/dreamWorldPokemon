@@ -15,12 +15,40 @@ async function getInputData() {
 }
 
 function stripHTMLTags(str) {
-    return str.replace(/<[^>]*>/g, '');
+    return str.replace(/<[^>]*>/g, '').trim();
 }
 
 function getTitleAttributeFromSpanTag(str) {
     const match = str.match(/<span[^>]*title="([^"]*)"[^>]*>/);
     return match ? match[1] : '';
+}
+
+async function getPokeAPIData(pkmnName) {
+    let name = pkmnName.toLowerCase();
+    if (name.includes('nidoran')) {
+        const trunc = name.substring(name.indexOf('nidoran')+6);
+        if (trunc.includes('f') || trunc.includes('♀')) {
+            name = 'nidoran-f';
+        } else if (trunc.includes('m') || trunc === '♂') {
+            name = 'nidoran-m';
+        }
+    } else if (name.includes('farfetch')) {
+        name = 'farfetchd';
+    } else if (name.includes('mr') && name.includes('mime')) {
+        name = 'mr-mime';
+    }
+    try {
+        const response = await fetch(`https://pokeapi.co/api/v2/pokemon-species/${name}`)
+        if (!response.ok) { throw new Error(`HTTP error! status: ${response.status}`); }
+        return response.json();
+    } catch (error) {
+        throw new Error(String(`Error while getting dex number for ${pkmnName}:`.concat(String(error))));
+    }
+}
+
+async function getPokedexNumber(pkmnName) {
+    const data = await getPokeAPIData(pkmnName);
+    return data['pokedex_numbers'][0]['entry_number'];
 }
 
 async function parseString(inputString) {
@@ -31,25 +59,16 @@ async function parseString(inputString) {
         data.push(new Array(4).fill(''));
         const tr = trs[i].trim();
         const tds = tr.split(/<td>/);
-        for (let j = 2; j < 6; j++) {
-            const td = tds[j];
-            let tdContent = stripHTMLTags(td).trim();
-            if (j === 5) {
-                tdContent = getTitleAttributeFromSpanTag(td);
-            }
-            // console.log(`Row ${i+1}, Column ${j-1}:`, tdContent);
-            data[i][j-2] = tdContent;
+        const pkmnName = stripHTMLTags(tds[2]);
+        const pokedexNumber = String('#').concat(String(await getPokedexNumber(pkmnName)).padStart(3, '0'));
+        data[i][0] = pokedexNumber;
+        data[i][1] = pkmnName;
+        for (let j = 3; j <= 4; j++) {
+            data[i][j-1] = stripHTMLTags(tds[j]).trim();
         }
-        // console.log(`data.length`,data.length);
+        data[i][4] = getTitleAttributeFromSpanTag(tds[5]);
     }
     return data;
-}
-
-async function printFive(arr) {
-    const dataArr = await arr;
-    for (let i=0; i<5; i++) {
-        console.log(dataArr[i]);
-    }
 }
 
 async function formatOutputString(arr) {
