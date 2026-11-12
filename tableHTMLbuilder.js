@@ -1,16 +1,25 @@
 const fs = require('fs/promises');
 const path = require('path');
-     
+
 // const outputFilePath = path.join(__dirname, outputFilename);
 // await fs.writeFile(outputFilePath, 'this is test output');
 const INPUT_FILEPATH = path.join(__dirname, 'input.txt');
+const HTML_FILEPATH = path.join(__dirname, 'dreamWorldPokemonTable.html');
 const OUTPUT_FILEPATH = path.join(__dirname, 'output.txt');
 
 async function getInputData() {
     try {
         return await fs.readFile(INPUT_FILEPATH, 'utf8');
     } catch (error) {
-        console.error('Error getting data:', error);
+        console.error('Error getting input data:', error);
+    }
+}
+
+async function getHTMLData() {
+    try {
+        return await fs.readFile(HTML_FILEPATH, 'utf8');
+    } catch (error) {
+        console.error('Error getting HTML data:', error);
     }
 }
 
@@ -89,7 +98,44 @@ async function writeOutputFile(outputString) {
     }
 }
 
-getInputData()
+async function writeToHTMLFile(outputString) {
+    try {
+        await fs.writeFile(HTML_FILEPATH, outputString);
+    } catch (error) {
+        console.error('Error writing to HTML file:', error);
+    }
+}
+
+function findTag(htmlString, tagName, idStr) {
+    const contentRegex = new RegExp(`<${tagName}[^>]*id="${idStr}"[^>]*>(.*)<\/${tagName}>`);
+    if (!contentRegex.test(htmlString)) { throw new Error('Selector did not find a match.') };
+    const contentMatch = htmlString.match(contentRegex);
+    if (contentMatch.length !== 2) { throw new Error('Selector found more than one match. Make your regex more specific.') }
+    const idxOfTag = htmlString.indexOf(contentMatch[0]);
+    return {
+        tag: {
+            start: idxOfTag,
+            end: idxOfTag + contentMatch[0].length - 1
+        },
+        content: {
+            start: idxOfTag + contentMatch[0].indexOf('>') + 1,
+            end: idxOfTag + contentMatch[0].substring(1).indexOf('<') + 1
+        }
+    };
+}
+
+function testDOMManip(htmlString, tagName, idStr, newStr) {
+    const idxs = findTag(htmlString, tagName, idStr);
+    writeToHTMLFile(
+        htmlString.substring(0, idxs.content.start)
+            .concat(newStr)
+            .concat(htmlString.substring(idxs.content.end))
+    );
+}
+
+/*getInputData()
     .then(input => parseString(input)
     .then(dataArr => formatOutputString(dataArr)
-    .then(outputString => writeOutputFile(outputString))));
+    .then(outputString => writeOutputFile(outputString))));*/
+getHTMLData()
+    .then(input => testDOMManip(input, 'caption', 'table-caption', 'Hello, World!'));
